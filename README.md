@@ -61,7 +61,7 @@
 
 ### `English Roadmap Tree/2) Time System/`
 
-Новый этап про систему времен. Сейчас содержит `Present Simple.md`: регулярные действия, факты, расписания, состояния, формы `do/does`, отрицания `don't/doesn't`, вопросы и слова-маркеры Present Simple.
+Новый этап про систему времен. Сейчас содержит `Present Simple.md`: регулярные действия, факты, расписания, состояния, утверждения, отрицания, вопросы, короткие ответы, `do/does`, `don't/doesn't`, `has`, слова-маркеры Present Simple и правила окончаний `-s/-es` и `-y -> -ies`.
 
 ### `English Roadmap Tree/Tests/`
 
@@ -73,7 +73,7 @@
 
 ### `Ссылки.md`
 
-Навигационная заметка для быстрых внутренних ссылок по материалам. Сейчас содержит ссылки на список вопросительных слов в `Word order.md` и слова-маркеры Present Simple в `Present Simple.md`.
+Навигационная заметка для быстрых внутренних ссылок по материалам. Сейчас содержит ссылки на список вопросительных слов в `Word order.md`, слова-маркеры Present Simple и правило окончания `-es` в `Present Simple.md`.
 
 ### `Essay about me.md`
 
@@ -116,10 +116,14 @@
 
 Активные темы Time System:
 
-- Present Simple для регулярных действий, фактов, расписаний и состояний;
-- окончание `-s/-es` для `he/she/it`;
-- `do/does` в вопросах;
-- `don't/doesn't` в отрицаниях;
+- Present Simple для регулярных действий, привычек, фактов, расписаний и состояний;
+- утверждения: base verb для `I/you/we/they`, verb + `-s/-es` для `he/she/it`;
+- отрицания через `do not / don't` и `does not / doesn't` + base verb;
+- вопросы через `Do/Does + subject + base verb`;
+- короткие ответы: `Yes, I do`, `No, I don't`, `Yes, he does`, `No, he doesn't`;
+- особенность `have -> has` для третьего лица;
+- правила окончаний `-es` после `-sh`, `-ch`, `-s`, `-x`, `-o`;
+- правило `-y -> -ies` после согласной и обычное `-s` после гласной;
 - слова-маркеры: `always`, `usually`, `often`, `sometimes`, `rarely`, `never`, `every day/week/year`.
 
 ## How ChatGPT Should Use This Repository
@@ -132,7 +136,7 @@ ChatGPT должен использовать репозиторий как уч
 2. Затем читать `English Roadmap Tree/ROADMAP.MD.md`, если нужен roadmap.
 3. Проверять текущий этап обучения перед предложением новых тем.
 4. Использовать `English Roadmap Tree/1) Sentence Core/Word order.md` как главный файл по структуре предложения и вопросам.
-5. Использовать `English Roadmap Tree/2) Time System/Present Simple.md`, когда занятие касается настоящего времени.
+5. Использовать `English Roadmap Tree/2) Time System/Present Simple.md`, когда занятие касается настоящего времени, регулярных действий, коротких ответов или правил окончаний глаголов.
 6. Проверять `Words.md`, если в занятии нужны слова, выражения или примеры их употребления.
 7. Проверять `Ссылки.md`, если нужны быстрые внутренние переходы к важным заметкам и якорям.
 8. Использовать `Question review.md`, `Essay about me.md` и `English Roadmap Tree/Tests/` для проверки, анализа ошибок и планирования повторения.
