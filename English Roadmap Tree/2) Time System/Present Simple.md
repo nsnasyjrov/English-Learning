@@ -131,3 +131,156 @@ Source: https://englex.ru/present-simple-tense/
 | carry                    | carries                   |
 | play                     | plays                     |
 | stay                     | stays                     |
+# Глагол to be в Present Simple
+
+Глагол "to be" - это особый глагол-связка, который буквально переводится как "есть" или быть, являться. У него есть три формы которые используются с разными местоимениями:
+
+
+| I   | He, she, it | you, they, we |
+| --- | ----------- | ------------- |
+| am  | is          | Are           |
+
+**В простом настоящем времени глагол to be связывает подлежащее с прилагательным(adjective), существительным(noun), или местоимением(pronoun). Если в предложении действие описывается с помощью другого глагола, то глагол-связка to be нам уже не нужна.**
+
+Пример:
+
+Допустим мы хотим сказать: "Я голодный". В таком примере нет действия, есть только подлежащее 'я' и прилагательное "голодный". Для того, чтобы связать их в предложение мы используем глагол связку: to be.
+
+I **am** hungry. - Я ЯВЛЯЮСь голодным. Я голодный.
+
+Построение предложения в английском языке:
+
+#### Нет полносмыслового глагола
+
+Примеры:
+- Am i late? (Я опоздал)
+
+| Подлежащее    | Утвердительное | Отрицательное  | Вопрос |
+| ------------- | -------------- | -------------- | ------ |
+| I             | am             | am not         | Am?    |
+| You, We, They | Are            | aren't are not | Are?   |
+| He/She/It     | Is             | is not / is    | Is?    |
+
+#### Есть полносмысловой глагол
+
+We watch films every day.
+He watches films every day.
+
+We don't watch films every day.
+He doesn't watch films every day.
+
+Do they watch films every day?
+Does he watch films every day?
+
+| Подлежащее       | Утвердительное | Отрицательное            | Вопрос           |
+| ---------------- | -------------- | ------------------------ | ---------------- |
+| I, You, We, They | verb           | do not / don't + verb    | Do... + verb?    |
+| He/She/It        | verb + s/es    | dosn't / does not + verb | Does.... + verb? |
+
+
+# Когда употребляется Present Simple
+
+Present Simple используется в тех случаях, когда мы говорим о настоящем.
+
+### Неизменные, постоянные события и факты
+
+Present Simple охватывает настоящее время в самом широком плане. Когда мы хотим сказать о законах природы, прочих неизменных фактах. Или обычно постоянную информацию, связанную с нами или другими людьми.
+
+```
+
+Water boils at 100 degree. - Вода закипает при 100 градусах(закон природы).
+
+My neighbours speak French. - Мои соседи говорят на английском(неизменный факт)
+
+Mary works for an international company. - Мэри работает в международной компании.
+```
+
+### Привычки и регулярные действия
+
+Используем Present Simple, чтобы описать действия, которые повторяются с определенной регулярностью:
+
+```
+I go to Europe every spring. - Я езжу в Европу каждую весну.
+
+They don't buy fast food when they are travelling. - Они не едят фастфуд, когда путешествуют.
+
+He never eats broccoli. - Он никогда не ест брокколи.
+```
+
+### Расписание
+
+Используйте Present Simple для описания действия, которое происходит по расписанию.
+
+```
+Breaking Bad series starts at half past nine. - Во все тяжкие начинается в половину десятого.
+
+The train leaves at 8:00 on Thursdays. - Поезд отбывает в 8:00 по четвергам.
+
+Does the souvenir shop close at 18:00?- Магазин сувениров закрывается в 18:00?
+```
+
+### Действия, происходящие одни за другим.
+
+- Последовательные действия в сюжете или в книге:
+  The hero wants to save the world. He starts a journey full of adventures and losses. But does he know all the truth? - Герой желает спасти мир. Он отправляется в путешествие полное приключений и потерь. Но знает ли он всю правду?
+- Реплики спортивных комментаторов:
+  He kicks the ball and scores! - Он бьет по мячу и забивает гол!
+- Инструкции
+  Don't forget: first you go to the check-in desk, then you show your things at the customs. - Не забудь, сначала: идешь к стойке регистрации, затем показываешь вещи на таможне.
+- Демонстрация процесса:
+  So, I add some pepper and serve the dinner. Voila!  - Итак, я добавляю немного перца и подаю на стол. Вуаля!
+
+Стоит обратить внимание, что Present Simple не используется для того, чтобы сказать чем мы занимаемся в конкретный данный момент времени. Для этого существует Present Continious.
+
+# Маркеры Present Simple
+
+## Наречия частоты
+
+С помощью этих наречий можно понять, как часто происходят события.
+Основные наречия частоты приведены в таблице:
+
+| Слово          | Перевод               |
+| -------------- | --------------------- |
+| always         | Всегда                |
+| usually        | Обычно                |
+| often          | часто                 |
+| generally      | в большинстве случаев |
+| sometimes      | иногда                |
+| rarely, seldom | редко                 |
+| hardly ever    | почти никогда         |
+| never          | никогда               |
+
+Примеры предложений с наречиями частоты:
+- He always gets up at 7 a.m.
+- Miranda and Grag often visit their grandmother.
+- She rarely meets her friends. - Она редко видится со своими друзьями.
+- We are hardly ever late for work. - Мы почти никогда не опаздываем на работу.
+- I never borrow money from my friends. - Я никогда не одалживаю деньги у друзей.
+
+**Обычно наречия частоты ставятся перед основным глаголом предложения**:
+
+- I sometimes have a shower in the morning. - Я иногда принимаю душ по утрам.
+- Mark doesn't always give his girlfriend flowers. - Марк не всегда дает/дарит своей девушке цветы.
+
+Но если предложение не имеет full-meaning глагола, а вместо него - глагол to be, то наречия частоты встает после глагола to be:
+
+I am in Kazan every spring.
+She is hardly ever worried. - Она почти не волнуется.
+He is never tired.
+Billy and Mark are always at work. - Билли и Марк всегда на работе.
+
+## Словосочетания, выражающие частоту
+
+Словосочетания, выражающие частоту,  обычно ставятся в конце предложения.
+
+every day/morning/Friday/....
+
+Mark doesn't work in BurgerMart every summer.
+
+Словосочетания образованные с помощью once и twice:
+- We see each other once a month.
+- Ivan has English lessons twice a week.
+
+Начиная с трех раз и более мы начинаем использовать слово 'times:
+
+Charlotte's daugther usually comes to see her about ten times a year. - Дочь Шарлотты обычно навещает ее около 10 раз в год.
