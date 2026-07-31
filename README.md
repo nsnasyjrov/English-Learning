@@ -1,6 +1,6 @@
 # English Learning
 
-Этот репозиторий предназначен для системного изучения английского языка. В нем хранятся конспекты тем, дорожная карта, учебные материалы, задания, словарь, диагностические тесты, письменные работы и материалы для повторения.
+Этот репозиторий предназначен для системного изучения английского языка. В нем хранятся конспекты тем, дорожная карта, учебные материалы, задания, словарь, диагностические тесты, письменные работы, reading/listening practice и материалы для повторения.
 
 Главная цель репозитория - не пассивное накопление ссылок, а активное обучение: грамматика, построение предложений, регулярная практика, исправление ошибок, отслеживание прогресса и долгосрочная подготовка к IELTS.
 
@@ -29,23 +29,34 @@
 |   |   |-- Без названия.md
 |   |   `-- Подлежащее.md
 |   |-- 2) Time System/
-|   |   `-- Present Simple.md
+|   |   `-- Present Simple/
+|   |       `-- Present Simple.md
 |   `-- Tests/
-|       `-- Control Sentence Core TEST.md
-|-- Essay about me.md
-|-- Question review.md
+|       |-- Any practice/
+|       |   |-- Control Sentence Core TEST.md
+|       |   `-- Question review.md
+|       |-- Listening/
+|       |   |-- 22.07.2026 British council A2.md
+|       |   `-- 30.07.2026 Who's who in the office.md
+|       |-- Reading/
+|       |   `-- 23.07.2026.md
+|       `-- Writing/
+|           `-- Essay about me.md
 |-- README.md
 |-- Words.md
 |-- Ссылки.md
 `-- Изображения/
-    `-- ROADMAP.png
+    |-- ROADMAP.png
+    |-- Pasted image 20260730235105.png
+    |-- Pasted image 20260730235222.png
+    `-- Pasted image 20260730235229.png
 ```
 
 ## Folder And File Roles
 
 ### `English Roadmap Tree/`
 
-Основная папка дорожной карты обучения. Сейчас здесь есть roadmap, первый этап `1) Sentence Core`, старт второго этапа `2) Time System` и папка `Tests`.
+Основная папка дорожной карты обучения. Сейчас здесь есть roadmap, первый этап `1) Sentence Core`, второй этап `2) Time System` и папка `Tests` для практики по навыкам.
 
 ### `English Roadmap Tree/ROADMAP.MD.md`
 
@@ -57,35 +68,46 @@
 
 Первый базовый этап. Здесь лежат материалы про каркас английского предложения: SVO, подлежащее, падежи, `to be`, `there is / there are`, dummy subject `it`, отрицания, закрытые и открытые вопросы, вопросы к подлежащему, косвенные вопросы, модальные глаголы и три базовые конструкции: `I am`, `I have`, `I + action verb`.
 
-`Work order.md` был заменен на `Word order.md`; ChatGPT должен использовать актуальный файл `Word order.md`.
+Главный файл этапа: `Word order.md`.
 
-### `English Roadmap Tree/2) Time System/`
+### `English Roadmap Tree/2) Time System/Present Simple/`
 
-Новый этап про систему времен. Сейчас содержит `Present Simple.md`: регулярные действия, факты, расписания, состояния, утверждения, отрицания, вопросы, короткие ответы, `do/does`, `don't/doesn't`, `has`, `to be` в Present Simple, слова-маркеры, наречия и выражения частоты, правила окончаний `-s/-es` и `-y -> -ies`, а также отличие от Present Continuous для действий прямо сейчас.
+Текущий этап про Present Simple. Файл `Present Simple.md` содержит регулярные действия, факты, расписания, состояния, утверждения, отрицания, вопросы, короткие ответы, `do/does`, `don't/doesn't`, `has`, `to be` в Present Simple, слова-маркеры, наречия и выражения частоты, правила окончаний `-s/-es` и `-y -> -ies`, а также отличие от Present Continuous для действий прямо сейчас.
 
 ### `English Roadmap Tree/Tests/`
 
-Папка для checkpoints и контрольных работ. Сейчас содержит `Control Sentence Core TEST.md` с диагностикой по вопросам, косвенным вопросам и Sentence Core.
+Практическая зона для checkpoints и тренировки навыков. Сейчас папка разделена по типам работы: `Any practice`, `Listening`, `Reading`, `Writing`.
+
+### `English Roadmap Tree/Tests/Any practice/`
+
+Общая практика и разбор ошибок. Сейчас содержит `Control Sentence Core TEST.md` и `Question review.md` с диагностикой по Sentence Core, вопросам, `to be` и `do/does`.
+
+### `English Roadmap Tree/Tests/Listening/`
+
+Listening practice по материалам British Council A2. Сейчас есть:
+
+- `22.07.2026 British council A2.md` - morning briefing, заметки по аудированию, фразы `I wanted to tell you about`, `canteen`, `cashless payment system`, `salary`, собственный output.
+- `30.07.2026 Who's who in the office.md` - office introduction, colleagues, roles, partial dictation, Present Simple examples inside audio, retelling.
+
+### `English Roadmap Tree/Tests/Reading/`
+
+Reading practice. Сейчас содержит `23.07.2026.md`: текст про backend developer Alex, ответы по-русски, ответы на английском и закрепление Present Simple форм.
+
+### `English Roadmap Tree/Tests/Writing/`
+
+Writing output. Сейчас содержит `Essay about me.md`: текст о себе для проверки грамматики, исправления ошибок, улучшения формулировок и отслеживания прогресса в письме.
 
 ### `Words.md`
 
-Корневой словарный файл для новых слов и выражений, которые появляются во время занятий. Сейчас содержит `polite enough`, `responsible`, `confident` и `near` с примерами использования.
+Корневой словарный файл для новых слов и выражений, которые появляются во время занятий. Сейчас содержит `polite enough`, `responsible`, `confident`, `near`, `I wanted to tell you about`, `canteen`, `colleagues`, `look for`, `solve the problem` и примеры использования.
 
 ### `Ссылки.md`
 
 Навигационная заметка для быстрых внутренних ссылок по материалам. Сейчас содержит ссылки на список вопросительных слов в `Word order.md`, слова-маркеры Present Simple и правило окончания `-es` в `Present Simple.md`.
 
-### `Essay about me.md`
-
-Письменная практика о себе. Это learner output: текст нужно использовать для проверки грамматики, исправления ошибок, улучшения формулировок и отслеживания прогресса в письме.
-
-### `Question review.md`
-
-Материал для разбора вопросов и повторения ошибок. Его стоит использовать вместе с `Control Sentence Core TEST.md` и текущими правилами из `Word order.md`.
-
 ### `Изображения/`
 
-Папка с изображениями для заметок. Сейчас содержит `ROADMAP.png`.
+Папка с изображениями для заметок. Сейчас содержит `ROADMAP.png` и pasted images для listening-задания `Who's who in the office`.
 
 ### `.obsidian/`
 
@@ -93,7 +115,7 @@
 
 ## Current Learning Focus
 
-Текущий фокус: переход от **Sentence Core** к **Time System**.
+Текущий фокус: переход от **Sentence Core** к **Time System** с активной практикой reading, listening и writing.
 
 Активные темы Sentence Core:
 
@@ -133,6 +155,13 @@
 - выражения частоты: `every day/morning/Friday`, `once`, `twice`, `three times` и далее;
 - слова-маркеры: `always`, `usually`, `often`, `sometimes`, `rarely`, `never`, `every day/week/year`.
 
+Активная практика:
+
+- reading: понимание текста без дословного перевода, ответы на вопросы, формы Present Simple;
+- listening: British Council A2, распознавание ролей/фактов, partial dictation, фразы из аудио, пересказ;
+- writing: self-introduction essay и собственные рабочие output-тексты;
+- question review: исправление ошибок в вопросах, `to be` vs `do/does`, agreement и артикли.
+
 ## How ChatGPT Should Use This Repository
 
 ChatGPT должен использовать репозиторий как учебный контекст, а не как случайную свалку ссылок.
@@ -143,11 +172,11 @@ ChatGPT должен использовать репозиторий как уч
 2. Затем читать `English Roadmap Tree/ROADMAP.MD.md`, если нужен roadmap.
 3. Проверять текущий этап обучения перед предложением новых тем.
 4. Использовать `English Roadmap Tree/1) Sentence Core/Word order.md` как главный файл по структуре предложения и вопросам.
-5. Использовать `English Roadmap Tree/2) Time System/Present Simple.md`, когда занятие касается настоящего времени, регулярных действий, `to be`, коротких ответов, частотности, расписаний или правил окончаний глаголов.
+5. Использовать `English Roadmap Tree/2) Time System/Present Simple/Present Simple.md`, когда занятие касается настоящего времени, регулярных действий, `to be`, коротких ответов, частотности, расписаний или правил окончаний глаголов.
 6. Проверять `Words.md`, если в занятии нужны слова, выражения или примеры их употребления.
 7. Проверять `Ссылки.md`, если нужны быстрые внутренние переходы к важным заметкам и якорям.
-8. Использовать `Question review.md`, `Essay about me.md` и `English Roadmap Tree/Tests/` для проверки, анализа ошибок и планирования повторения.
-9. Предпочитать активные задания: построение предложений, вопросы, отрицания, исправление ошибок, мини-тесты и checkpoints.
+8. Использовать `English Roadmap Tree/Tests/Any practice/`, `Reading/`, `Listening/` и `Writing/` для проверки, анализа ошибок и планирования повторения.
+9. Предпочитать активные задания: построение предложений, вопросы, отрицания, исправление ошибок, mini-tests, reading/listening tasks, writing output и checkpoints.
 10. Не добавлять ложные сведения о темах или файлах, которых нет в репозитории.
 
 ## Learning Workflow
@@ -157,10 +186,12 @@ ChatGPT должен использовать репозиторий как уч
 1. **Topic** - выбрать одну конкретную тему.
 2. **Explanation** - коротко объяснить правило и дать понятные примеры.
 3. **Practice** - сделать упражнения на утверждения, вопросы и отрицания.
-4. **Check** - проверить ответы и объяснить исправления.
-5. **Error log** - записать повторяющиеся или важные ошибки.
-6. **Review** - вернуться к слабым местам на следующих занятиях.
-7. **Checkpoint** - периодически проверять, стала ли тема активным навыком.
+4. **Input** - добавить reading или listening, если тема уже достаточно понятна.
+5. **Output** - написать короткий ответ, пересказ, mini-essay или speaking script.
+6. **Check** - проверить ответы и объяснить исправления.
+7. **Error log** - записать повторяющиеся или важные ошибки.
+8. **Review** - вернуться к слабым местам на следующих занятиях.
+9. **Checkpoint** - периодически проверять, стала ли тема активным навыком.
 
 ## Progress Tracking
 
@@ -170,8 +201,10 @@ ChatGPT должен использовать репозиторий как уч
 
 - дата занятия;
 - тема;
+- тип практики: grammar, reading, listening, writing, mixed practice;
 - сделанные упражнения;
 - ошибки;
+- новые слова и фразы;
 - что повторить;
 - следующий шаг.
 
@@ -182,7 +215,11 @@ ChatGPT должен использовать репозиторий как уч
 
 Topic:
 
+Practice type:
+
 Exercises:
+
+New words:
 
 Mistakes:
 
@@ -210,17 +247,17 @@ checkpoints/
 
 Рекомендуемые роли:
 
-- `grammar/` - структурированные правила и грамматические заметки.
+- `grammar/` - структурированные правила и грамматические заметки, если текущего roadmap-дерева станет мало.
 - `sentence-building/` - паттерны и упражнения на построение предложений.
-- `practice/` - упражнения по текущим и повторяемым темам.
+- `practice/` - отдельная папка для упражнений, если `English Roadmap Tree/Tests/` станет слишком большой.
 - `errors/` - журнал ошибок, исправления и повторяющиеся слабые места.
 - `progress/` - история занятий и краткие отчеты о прогрессе.
 - `vocabulary/` - будущая папка для расширения `Words.md`: слова, фразы, collocations и тематические списки.
-- `input/` - тексты, аудио, видео, примеры и материалы для разбора.
-- `output/` - письменные ответы, speaking scripts и исправленные работы.
+- `input/` - отдельная папка для текстов, аудио, видео и материалов для разбора, если они будут вынесены из `Tests/`.
+- `output/` - отдельная папка для письменных ответов, speaking scripts и исправленных работ, если они будут вынесены из `Tests/Writing/`.
 - `sources/` - надежные источники и справочные материалы.
 - `checkpoints/` - будущая отдельная папка для регулярных проверок, если `English Roadmap Tree/Tests/` станет недостаточно.
 
 ## Long-Term Direction
 
-Долгосрочная цель - подготовка к IELTS. Но текущий приоритет - крепкий Sentence Core и базовый Time System: порядок слов, простые утверждения, вопросы, отрицания, Present Simple, `to be`, частотность и регулярные действия. IELTS-практику лучше добавлять постепенно, когда простые предложения и базовое настоящее время станут активным навыком.
+Долгосрочная цель - подготовка к IELTS. Но текущий приоритет - крепкий Sentence Core, базовый Time System и регулярная практика input/output: порядок слов, простые утверждения, вопросы, отрицания, Present Simple, `to be`, частотность, reading, listening и writing. IELTS-практику лучше добавлять постепенно, когда простые предложения и базовое настоящее время станут активным навыком.
