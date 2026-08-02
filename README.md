@@ -26,13 +26,13 @@
 |   |   |-- Cases - Падежи в английском.md
 |   |   |-- Introduction.md
 |   |   |-- Word order.md
-|   |   |-- Без названия.md
 |   |   `-- Подлежащее.md
 |   |-- 2) Time System/
-|   |   |-- Past Simple/
-|   |   |   `-- Past Simple.md
-|   |   `-- Present Simple/
-|   |       `-- Present Simple.md
+|   |   |-- 1 - Present Simple/
+|   |   |   `-- Present Simple.md
+|   |   `-- 2 - Past Simple/
+|   |       |-- Past Simple.md
+|   |       `-- Таблица неправильных глаголов.md
 |   `-- Tests/
 |       |-- Any practice/
 |       |   |-- Control Sentence Core TEST.md
@@ -50,6 +50,7 @@
 |           `-- Essay about me.md
 |-- README.md
 |-- Words.md
+|-- Pasted image 20260802183717.png
 |-- Ссылки.md
 `-- Изображения/
     |-- ROADMAP.png
@@ -76,13 +77,13 @@
 
 Главный файл этапа: `Word order.md`.
 
-### `English Roadmap Tree/2) Time System/Present Simple/`
+### `English Roadmap Tree/2) Time System/1 - Present Simple/`
 
 Текущий этап про Present Simple. Файл `Present Simple.md` содержит регулярные действия, факты, расписания, состояния, утверждения, отрицания, вопросы, короткие ответы, `do/does`, `don't/doesn't`, `has`, `to be` в Present Simple, слова-маркеры, наречия и выражения частоты, правила окончаний `-s/-es` и `-y -> -ies`, а также отличие от Present Continuous для действий прямо сейчас.
 
-### `English Roadmap Tree/2) Time System/Past Simple/`
+### `English Roadmap Tree/2) Time System/2 - Past Simple/`
 
-Новый этап про Past Simple. Файл `Past Simple.md` содержит базовое назначение времени, утвердительные предложения, отрицания через `didn't + base verb`, вопросы через `Did + subject + base verb`, правильные и неправильные глаголы, а также правила образования прошедшей формы у правильных глаголов: `-ed`, `-y -> -ied`, сохранение `-y` после гласной и удвоение согласной.
+Новый этап про Past Simple. Файл `Past Simple.md` содержит базовое назначение времени, утвердительные предложения, отрицания через `didn't + base verb`, вопросы через `Did + subject + base verb`, правильные и неправильные глаголы, `was/were`, `had`, произношение окончания `-ed`, случаи употребления Past Simple и правила образования прошедшей формы у правильных глаголов: `-ed`, `-y -> -ied`, сохранение `-y` после гласной и удвоение согласной. Файл `Таблица неправильных глаголов.md` хранит V1/V2/V3, транскрипцию и перевод ключевых irregular verbs.
 
 ### `English Roadmap Tree/Tests/`
 
@@ -117,7 +118,7 @@ Writing output. Сейчас содержит `Essay about me.md`: текст о
 
 ### `Ссылки.md`
 
-Навигационная заметка для быстрых внутренних ссылок по материалам. Сейчас содержит ссылки на список вопросительных слов в `Word order.md`, слова-маркеры Present Simple и правило окончания `-es` в `Present Simple.md`.
+Навигационная заметка для быстрых внутренних ссылок по материалам. Сейчас содержит ссылки на список вопросительных слов в `Word order.md`, слова-маркеры Present Simple, правило окончания `-es` в `Present Simple.md` и таблицу неправильных глаголов для Past Simple.
 
 ### `Изображения/`
 
@@ -285,4 +286,4 @@ checkpoints/
 
 ## Long-Term Direction
 
-Долгосрочная цель - подготовка к IELTS. Но текущий приоритет - крепкий Sentence Core, базовый Time System и регулярная практика input/output: порядок слов, простые утверждения, вопросы, отрицания, Present Simple, старт Past Simple, `to be`, частотность, reading, listening и writing. IELTS-практику лучше добавлять постепенно, когда простые предложения, базовое настоящее и базовое прошедшее время станут активным навыком.
+Долгосрочная цель - подготовка к IELTS. Но текущий приоритет - крепкий Sentence Core, базовый Time System и регулярная практика input/output: порядок слов, простые утверждения, вопросы, отрицания, Present Simple, Past Simple, `to be`, частотность, reading, listening и writing. IELTS-практику лучше добавлять постепенно, когда простые предложения, базовое настоящее и базовое прошедшее время станут активным навыком.
