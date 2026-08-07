@@ -1,4 +1,8 @@
 {
   "theme": "obsidian",
-  "cssTheme": "Wikipedia"
+  "cssTheme": "Minimal",
+  "accentColor": "#6d8fe8",
+  "enabledCssSnippets": [
+    "english-hub"
+  ]
 }

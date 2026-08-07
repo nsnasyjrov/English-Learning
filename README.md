@@ -4,6 +4,10 @@
 
 Главная цель репозитория - не пассивное накопление ссылок, а активное обучение: грамматика, построение предложений, регулярная практика, исправление ошибок, отслеживание прогресса и долгосрочная подготовка к IELTS.
 
+## Быстрый вход
+
+[[Dashboard|Dashboard]] · [[ROADMAP.MD|Roadmap]] · [[0 - Sentence Core|Sentence Core]] · [[0 - Time System|Time System]] · [[0 - Practice|Practice]] · [[Ссылки|Карта хранилища]]
+
 ## Repository Structure
 
 Актуальная структура репозитория:
@@ -23,18 +27,22 @@
 |-- English Roadmap Tree/
 |   |-- ROADMAP.MD.md
 |   |-- 1) Sentence Core/
+|   |   |-- 0 - Sentence Core.md
 |   |   |-- Cases - Падежи в английском.md
 |   |   |-- Introduction.md
 |   |   |-- Word order.md
 |   |   `-- Подлежащее.md
 |   |-- 2) Time System/
+|   |   |-- 0 - Time System.md
 |   |   |-- 1 - Present Simple/
 |   |   |   `-- Present Simple.md
 |   |   `-- 2 - Past Simple/
 |   |       |-- Past Simple.md
 |   |       `-- Таблица неправильных глаголов.md
 |   `-- Tests/
+|       |-- 0 - Practice.md
 |       |-- Any practice/
+|       |   |-- 0 - Grammar Practice.md
 |       |   |-- Control Sentence Core TEST.md
 |       |   |-- Question review.md
 |       |   `-- Практика по дням/
@@ -42,12 +50,15 @@
 |       |       `-- Июль/
 |       |           `-- 31.07.2026.md
 |       |-- Listening/
+|       |   |-- 0 - Listening.md
 |       |   |-- 22.07.2026 British council A2.md
 |       |   `-- 30.07.2026 Who's who in the office.md
 |       |-- Reading/
+|       |   |-- 0 - Reading.md
 |       |   |-- 02.08.2026.md
 |       |   `-- 23.07.2026.md
 |       `-- Writing/
+|           |-- 0 - Writing.md
 |           |-- Essay about me.md
 |           `-- Writing 04.08.2026.md
 |-- README.md
@@ -78,7 +89,7 @@
 
 Первый базовый этап. Здесь лежат материалы про каркас английского предложения: SVO, подлежащее, падежи, `to be`, `there is / there are`, dummy subject `it`, отрицания, закрытые и открытые вопросы, вопросы к подлежащему, косвенные вопросы, модальные глаголы и три базовые конструкции: `I am`, `I have`, `I + action verb`.
 
-Главный файл этапа: `Word order.md`.
+Карта этапа: `0 - Sentence Core.md`. Главный фундаментальный конспект: `Word order.md`.
 
 ### `English Roadmap Tree/2) Time System/1 - Present Simple/`
 

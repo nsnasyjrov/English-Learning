@@ -1,41 +1,44 @@
 {
   "main": {
-    "id": "a91710608faa334d",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "3401b16b30b3a2ac",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "c22ffa4a1bd121f6",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English Roadmap Tree/1) Sentence Core/Work order.md",
-                "mode": "source",
+                "file": "Dashboard.md",
+                "mode": "preview",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Work order"
+              "title": "Dashboard"
             }
           },
           {
-            "id": "64599e0422678f96",
+            "id": "c83e894ea530067f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Words.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Words"
+              "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,7 +58,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -108,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "English Roadmap Tree/2) Time System/Present Simple.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Present Simple"
             }
           },
           {
@@ -144,8 +150,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-tags",
-              "title": "Теги"
+              "icon": "lucide-ghost",
+              "title": "tag"
             }
           },
           {
@@ -180,39 +186,62 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "c22ffa4a1bd121f6",
+  "active": "c83e894ea530067f",
   "lastOpenFiles": [
-    "English Roadmap Tree/ROADMAP.MD.md",
-    "Words.md",
-    "English Roadmap Tree/1) Sentence Core/Work order.md",
+    "Dashboard.md",
     "README.md",
-    "English Roadmap Tree/1) Sentence Core/Подлежащее.md",
-    "English Roadmap Tree/1) Sentence Core/Cases - Падежи в английском.md",
+    "English Roadmap Tree/1) Sentence Core/0 - Sentence Core.md",
     "English Roadmap Tree/1) Sentence Core/Introduction.md",
-    "Подлежащее.md",
-    "English Roadmap Tree/Sentence Core/Без названия",
+    "English Roadmap Tree/Tests/Any practice/Практика по дням/Август/06.08.2026.md",
+    "English Roadmap Tree/2) Time System/1 - Present Simple/Present Simple.md",
+    "English Roadmap Tree/2) Time System/2 - Past Simple/Past Simple.md",
+    "English Roadmap Tree/2) Time System/2 - Past Simple/Таблица неправильных глаголов.md",
+    "English Roadmap Tree/2) Time System/0 - Time System.md",
+    "English Roadmap Tree/1) Sentence Core/Cases - Падежи в английском.md",
+    "Time Managment.md",
+    "English Roadmap Tree/1) Sentence Core/Word order.md",
+    "English Roadmap Tree/1) Sentence Core/Подлежащее.md",
+    "Ссылки.md",
+    "Изображения/Pasted image 20260802183717.png",
     "Изображения/ROADMAP.png",
-    "Изображения",
-    "English Roadmap Tree/1) Sentence Core",
-    "English Roadmap Tree",
-    "По плейлистам/1 урок.md",
-    "Без названия.canvas",
-    "По плейлистам/Без названия",
-    "По плейлистам",
-    "Добро пожаловать.md"
+    "Words.md",
+    "Изображения/ddfa565678fc66873264d3b72d03a391.jpg",
+    "ddfa565678fc66873264d3b72d03a391.jpg",
+    "English Roadmap Tree/Tests/Writing/0 - Writing.md",
+    "English Roadmap Tree/Tests/0 - Practice.md",
+    "English Roadmap Tree/ROADMAP.MD.md",
+    "English Roadmap Tree/Tests/Reading/0 - Reading.md",
+    "English Roadmap Tree/Tests/Listening/0 - Listening.md",
+    "English Roadmap Tree/Tests/Any practice/0 - Grammar Practice.md",
+    "English Roadmap Tree/Tests/Writing/Writing 04.08.2026.md",
+    "English Roadmap Tree/Tests/Writing/Essay about me.md",
+    "English Roadmap Tree/Tests/Listening/05.08.2026.md",
+    "English Roadmap Tree/Tests/Any practice/Практика по дням/Август",
+    "English Roadmap Tree/Tests/Listening/22.07.2026 British council A2.md",
+    "English Roadmap Tree/Tests/Listening/30.07.2026 Who's who in the office.md",
+    "English Roadmap Tree/Logs",
+    "English Roadmap Tree/2) Time System/2 - Past Simple",
+    "English Roadmap Tree/Tests/Any practice/Практика по дням/Июль",
+    "English Roadmap Tree/Tests/Any practice/Практика по дням",
+    "Изображения/Pasted image 20260730235105.png",
+    "English Roadmap Tree/Tests/Any practice",
+    "English Roadmap Tree/Tests/Writing",
+    "Изображения/Pasted image 20260730235229.png",
+    "Изображения/Pasted image 20260730235222.png",
+    "English Roadmap Tree/2) Time System/1 - Present Simple",
+    "English Roadmap Tree/Tests/Reading",
+    "English Roadmap Tree/Tests/Listening",
+    "Без названия.canvas"
   ]
 }

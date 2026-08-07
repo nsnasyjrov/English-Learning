@@ -1,0 +1,155 @@
+/* English Hub — small visual layer for the Minimal theme. */
+
+body {
+  --english-blue: 91, 141, 239;
+  --english-cyan: 45, 187, 179;
+  --english-violet: 158, 126, 239;
+  --english-amber: 232, 171, 74;
+  --english-green: 92, 177, 118;
+}
+
+/* Keep headings, paragraphs and tables on the same left edge. Notes that
+   contain a table receive a wider reading column instead of making only the
+   table escape from the normal column. */
+.markdown-preview-view:not(.english-dashboard):has(table) .markdown-preview-sizer {
+  width: min(1280px, calc(100% - 48px));
+  max-width: min(1280px, calc(100% - 48px));
+}
+
+.markdown-preview-view:not(.english-dashboard) table {
+  width: 100%;
+  margin-inline: 0;
+}
+
+.markdown-preview-view:not(.english-dashboard) th,
+.markdown-preview-view:not(.english-dashboard) td {
+  vertical-align: middle;
+}
+
+.english-dashboard.markdown-preview-view,
+.english-dashboard.markdown-source-view.mod-cm6 .cm-scroller {
+  background:
+    radial-gradient(circle at 85% 4%, rgba(var(--english-blue), 0.10), transparent 28rem),
+    radial-gradient(circle at 12% 28%, rgba(var(--english-violet), 0.07), transparent 24rem);
+}
+
+.english-dashboard .markdown-preview-sizer,
+.english-dashboard.markdown-source-view.mod-cm6 .cm-contentContainer {
+  max-width: 1080px;
+}
+
+.english-dashboard h1 {
+  margin: 0.6em 0 0.75em;
+  font-size: clamp(2.1rem, 5vw, 3.3rem);
+  letter-spacing: -0.045em;
+  line-height: 1;
+}
+
+.english-dashboard h1::after {
+  content: "  /  study hub";
+  color: var(--text-muted);
+  font-size: 0.34em;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  vertical-align: middle;
+}
+
+.english-dashboard h2 {
+  margin-top: 2.2rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--background-modifier-border);
+  letter-spacing: -0.02em;
+}
+
+.english-dashboard .callout {
+  border: 1px solid rgba(var(--callout-color), 0.24);
+  border-radius: 14px;
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.06);
+}
+
+.english-dashboard .callout[data-callout="multi-column"] {
+  margin: 1rem 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  box-shadow: none;
+}
+
+.english-dashboard .callout[data-callout="multi-column"] > .callout-title {
+  display: none;
+}
+
+.english-dashboard .callout[data-callout="multi-column"] > .callout-content {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(205px, 1fr));
+  gap: 0.9rem;
+}
+
+.english-dashboard .callout[data-callout="multi-column"] > .callout-content > .callout {
+  margin: 0;
+  min-height: 128px;
+}
+
+.english-dashboard .callout[data-callout="core"] {
+  --callout-color: var(--english-blue);
+  --callout-icon: lucide-blocks;
+}
+
+.english-dashboard .callout[data-callout="time"] {
+  --callout-color: var(--english-violet);
+  --callout-icon: lucide-clock-3;
+}
+
+.english-dashboard .callout[data-callout="practice"] {
+  --callout-color: var(--english-green);
+  --callout-icon: lucide-dumbbell;
+}
+
+.english-dashboard .callout[data-callout="listen"] {
+  --callout-color: var(--english-cyan);
+  --callout-icon: lucide-headphones;
+}
+
+.english-dashboard .callout[data-callout="read"] {
+  --callout-color: var(--english-amber);
+  --callout-icon: lucide-book-open;
+}
+
+.english-dashboard .callout[data-callout="write"] {
+  --callout-color: var(--english-blue);
+  --callout-icon: lucide-pen-line;
+}
+
+.english-dashboard .callout[data-callout="words"] {
+  --callout-color: var(--english-violet);
+  --callout-icon: lucide-languages;
+}
+
+.english-dashboard .internal-link {
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.english-dashboard .dataview.table-view-table {
+  overflow: hidden;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 12px;
+}
+
+.english-dashboard kbd {
+  padding: 0.12rem 0.4rem;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 5px;
+  background: var(--background-secondary);
+  box-shadow: 0 1px 0 var(--background-modifier-border);
+}
+
+@media (max-width: 700px) {
+  .english-dashboard .callout[data-callout="multi-column"] > .callout-content {
+    grid-template-columns: 1fr;
+  }
+
+  .english-dashboard h1::after {
+    display: none;
+  }
+}
