@@ -24,7 +24,7 @@
             }
           },
           {
-            "id": "160326b46c623363",
+            "id": "1e5c893850207d6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,9 +36,23 @@
               "icon": "lucide-file",
               "title": "10.08.2026"
             }
+          },
+          {
+            "id": "15d8354f700b0c12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Time Managment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Time Managment"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,11 +211,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "160326b46c623363",
+  "active": "15d8354f700b0c12",
   "lastOpenFiles": [
-    "Time Managment.md",
-    "English Roadmap Tree/Tests/Any practice/Практика по дням/Август/10.08.2026.md",
     "Dashboard.md",
+    "English Roadmap Tree/Tests/Any practice/Практика по дням/Август/10.08.2026.md",
+    "English Roadmap Tree/Tests/Any practice/Практика по дням/Август/06.08.2026.md",
+    "Time Managment.md",
     "16.08.2026.md",
     "README.md",
     "Ссылки.md",
@@ -215,7 +230,6 @@
     "English Roadmap Tree/Tests/Reading/0 - Reading.md",
     "English Roadmap Tree/1) Sentence Core/0 - Sentence Core.md",
     "English Roadmap Tree/1) Sentence Core/Introduction.md",
-    "English Roadmap Tree/Tests/Any practice/Практика по дням/Август/06.08.2026.md",
     "English Roadmap Tree/2) Time System/1 - Present Simple/Present Simple.md",
     "English Roadmap Tree/2) Time System/2 - Past Simple/Past Simple.md",
     "English Roadmap Tree/2) Time System/0 - Time System.md",
