@@ -30,6 +30,11 @@
 **solve the problem** - решить проблему
 >Why doesn't Alex solve this problem? - Почему Алекс не может решить эту проблему?
 
+
+# D
+
+`definition` - определение(как по словарю)
+> Match the words with the definitons
 # M
 
 **Mentor** - наставник в смысле коллеги, который обучает тебя.
