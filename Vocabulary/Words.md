@@ -1,20 +1,3 @@
-**Polite enough** - достаточно вежливы. 
-*Применение:*
-> His friends were not polite enough. - Его друзья не были достаточно вежливыми.
-
-Словарный диктант:
-
-**responsible** - ответственный.
-> I am the developer (who is) responsible for this module.
-
-**confident** - уверенный
-> I am confident about this solution.
-
-**near** - рядом с 
->I am near the server room
-
-
-**I wanted to tell you about** - Я хотел рассказать тебе О
 
 **canteen** - столовая
 
@@ -30,8 +13,14 @@
 **solve the problem** - решить проблему
 >Why doesn't Alex solve this problem? - Почему Алекс не может решить эту проблему?
 
+# B
+`bag` -  сумка
+`I have lost my bag at the hotel` - Я потерял свою сумку в отеле.
+`I usually leave my bag at the hotel` - я обычно оставляю свою сумку в отеле ^260632
 
 # D
+`describe` - описывает
+> The text describes about... - Текст описывает....
 
 `definition` - определение(как по словарю)
 > Match the words with the definitons
@@ -55,6 +44,16 @@ This task was definetely harder than the previous one. - Эта задача о�
 
 **Mentor** - наставник в смысле коллеги, который обучает тебя.
 
+# S
+`suitcase` - чемодан
+`I bought my suitcase at the main market ` ^bdbbc6
+
+# P
+`prosecution` - Обвинение
+
+`purse` - сумка/сумочка(в контексте женская сумочка)  ^9b30a6
+> Maria has lost her purse at the hotel
+
 # T
 
 `To twinkle` - "мерцать", "мигать", "сверкать", "поблесиквать'
@@ -62,6 +61,3 @@ This task was definetely harder than the previous one. - Эта задача о�
 > Stars begin to twinkle in the night sky. - Звезды начинают мерцать на ночном небе.
 
 > His eyes twinle with joy. - Ее глаза сияли радостью.
-
-# P
-`prosecution` - Обвинение
