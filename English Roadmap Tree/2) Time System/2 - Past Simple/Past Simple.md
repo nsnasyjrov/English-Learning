@@ -1,6 +1,8 @@
 ref: https://englex.ru/past-simple-tense/
 
 Время Past Simple используют для описания действий, событий произошедших в прошлом. Это основное предназначение past simple.
+Связи: [[0 - Time System|карта времен]] · [[Word order|каркас предложения]] · [[Present Simple|сравнить с Present Simple]] · [[Таблица неправильных глаголов]] · [[0 - Practice|практика]]
+
 # Как образуется Past Simple
 
 ## Утвердительные предложения и Past Simple.
@@ -120,4 +122,3 @@ Past Simple подходит для описания последователь�
 > From time to time our grandma took us to the cinema. - Время времени наша бабушка водила нас в кино.
 
 ![[Pasted image 20260802183717.png]]
-
