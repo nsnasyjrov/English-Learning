@@ -22,37 +22,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "1e5c893850207d6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English Roadmap Tree/Tests/Any practice/Практика по дням/Август/10.08.2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10.08.2026"
-            }
-          },
-          {
-            "id": "15d8354f700b0c12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Time Managment.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Time Managment"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -72,7 +43,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
+                "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -102,7 +73,10 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Закладки"
             }
@@ -127,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English Roadmap Tree/2) Time System/Present Simple.md",
+                "file": "Time Managment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +111,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Present Simple"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -211,51 +185,54 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "15d8354f700b0c12",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Dashboard.md",
-    "English Roadmap Tree/Tests/Any practice/Практика по дням/Август/10.08.2026.md",
-    "English Roadmap Tree/Tests/Any practice/Практика по дням/Август/06.08.2026.md",
-    "Time Managment.md",
-    "16.08.2026.md",
-    "README.md",
-    "Ссылки.md",
-    "English Roadmap Tree/ROADMAP.MD.md",
-    "English Roadmap Tree/Tests/Speaking/08.08.2026.md",
-    "English Roadmap Tree/2) Time System/2 - Past Simple/Таблица неправильных глаголов.md",
-    "English Roadmap Tree/Tests/Speaking",
-    "English Roadmap Tree/Tests/Reading/07.08.2026.md",
-    "English Roadmap Tree/Tests/Listening/0 - Listening.md",
-    "Words.md",
-    "English Roadmap Tree/Tests/Reading/0 - Reading.md",
-    "English Roadmap Tree/1) Sentence Core/0 - Sentence Core.md",
-    "English Roadmap Tree/1) Sentence Core/Introduction.md",
-    "English Roadmap Tree/2) Time System/1 - Present Simple/Present Simple.md",
-    "English Roadmap Tree/2) Time System/2 - Past Simple/Past Simple.md",
-    "English Roadmap Tree/2) Time System/0 - Time System.md",
-    "English Roadmap Tree/1) Sentence Core/Cases - Падежи в английском.md",
-    "English Roadmap Tree/1) Sentence Core/Word order.md",
-    "English Roadmap Tree/1) Sentence Core/Подлежащее.md",
-    "Изображения/Pasted image 20260802183717.png",
     "Изображения/ROADMAP.png",
-    "Изображения/ddfa565678fc66873264d3b72d03a391.jpg",
-    "ddfa565678fc66873264d3b72d03a391.jpg",
-    "English Roadmap Tree/Tests/Writing/0 - Writing.md",
-    "English Roadmap Tree/Tests/0 - Practice.md",
-    "English Roadmap Tree/Tests/Any practice/0 - Grammar Practice.md",
+    "Изображения/Pasted image 20260802183717.png",
+    "Изображения/Pasted image 20260730235229.png",
+    "Изображения/Pasted image 20260730235222.png",
+    "Изображения/Pasted image 20260730235105.png",
+    "Words.md",
+    "Dashboard.md",
+    "05.09.2026.md",
+    "Time Managment.md",
+    "Ссылки.md",
+    "English Roadmap Tree/2) Time System/2 - Past Simple/Таблица неправильных глаголов.md",
+    "31.08.2026.md",
+    "Vocabulary/Words.md",
+    "Vocabulary/Quotes.md",
+    "Без названия.md",
+    "Vocabulary",
+    "English Roadmap Tree/Tests/Any practice/Практика по дням/Август/30.08.2026.md",
+    "``.md",
+    "English Roadmap Tree/Tests/Any practice/Практика по дням/Август/28.08.2026.md",
+    "English Roadmap Tree/Tests/Writing/29.08.2026.md",
+    "English Roadmap Tree/Tests/Reading/27.08.2026.md",
+    "Error Bank.md",
+    "English Roadmap Tree/Tests/Listening/25.08.2026.md",
+    "24.08.2026.md",
+    "English Roadmap Tree/ROADMAP.MD.md",
+    "English Roadmap Tree/Tests/Reading/22.08.2026.md",
+    "English Roadmap Tree/Tests/Any practice/Практика по дням/Август/23.08.2026.md",
+    "English Roadmap Tree/Verb Patterns.md",
+    "English Roadmap Tree/Tests/Reading/07.08.2026.md",
+    "English Roadmap Tree/Tests/Listening/05.08.2026.md",
     "English Roadmap Tree/Tests/Writing/Writing 04.08.2026.md",
+    "Изображения/Pasted image 20260822194623.png",
+    "Изображения/Pasted image 20260822184242.png",
+    "Изображения",
+    "English Roadmap Tree/2) Time System/3 - Future Simple",
+    "English Roadmap Tree/Tests/Writing/Без названия",
+    "English Roadmap Tree/1) Sentence Core/Изображения/Pasted image 20260813200407.png",
+    "English Roadmap Tree/1) Sentence Core/Изображения/Pasted image 20260813195641.png",
+    "English Roadmap Tree/Tests/Speaking",
+    "English Roadmap Tree/1) Sentence Core/Изображения/Pasted image 20260802183717.png",
+    "English Roadmap Tree/1) Sentence Core/Изображения/ROADMAP.png",
     "English Roadmap Tree/Tests/Any practice/Практика по дням/Август",
     "English Roadmap Tree/Logs",
     "English Roadmap Tree/2) Time System/2 - Past Simple",
     "English Roadmap Tree/Tests/Any practice/Практика по дням/Июль",
     "English Roadmap Tree/Tests/Any practice/Практика по дням",
-    "Изображения/Pasted image 20260730235105.png",
-    "English Roadmap Tree/Tests/Any practice",
-    "English Roadmap Tree/Tests/Writing",
-    "Изображения/Pasted image 20260730235229.png",
-    "Изображения/Pasted image 20260730235222.png",
-    "English Roadmap Tree/2) Time System/1 - Present Simple",
-    "English Roadmap Tree/Tests/Reading",
     "Без названия.canvas"
   ]
 }
