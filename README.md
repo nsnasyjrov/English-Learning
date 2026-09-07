@@ -4,19 +4,17 @@
 
 Главная цель репозитория - не пассивное накопление ссылок, а активное обучение: грамматика, построение предложений, регулярная практика, исправление ошибок, отслеживание прогресса и долгосрочная подготовка к IELTS.
 
-## Последнее обновление — 16.08.2026
+## Последнее обновление — 06.09.2026
 
-За период с 6 по 16 августа хранилище заметно расширилось:
+Актуальное состояние хранилища:
 
-- добавлены дневные занятия за `06.08`, `10.08`, `12.08` и `15.08` с практикой Past Simple и Sentence Building;
-- добавлены listening-занятия за `05.08` и `11.08`, включая задания British Council, точечное распознавание фраз и пересказ;
-- Reading перенесён в `Tests/Any practice/Reading`, добавлены занятия за `07.08` и `13.08`;
-- добавлена speaking-практика за `08.08` с рассказом о рабочем дне и произношением окончания `-ed`;
-- добавлены письменные checkpoints за `04.08` и `16.08`;
-- создан `Verb Patterns.md` для моделей `verb + to-infinitive`, `verb + V-ing`, `verb + preposition + object` и `verb + object`;
-- обновлены `Words.md`, `Time Managment.md` и рабочее пространство Obsidian;
-- изображения дорожной карты и заданий перенесены внутрь `1) Sentence Core/Изображения`, добавлены новые иллюстрации;
-- в репозиторий включены тема Minimal, CSS-сниппет `english-hub` и переносимые файлы плагинов Obsidian.
+- дневная грамматическая практика хранится в `Tests/Any practice/Практика по дням`; добавлены занятия по `31.08` включительно;
+- listening-занятия находятся в `Tests/Listening`, последнее занятие — `05.09.2026.md`;
+- reading-занятия вынесены в отдельную папку `Tests/Reading`, последнее занятие — `06.09.2026.md`;
+- `ReadingBank.md` и `ListeningBank.md` содержат уже использованные материалы и обязательны для проверки перед новым заданием;
+- в Time System добавлен Future Simple и сравнение `will` / `be going to`;
+- словарь разделён на `Vocabulary/Words.md` и `Vocabulary/Quotes.md`;
+- `Time Managment.md` содержит планы и фактические результаты занятий по 6 сентября.
 
 ## Быстрый вход
 
@@ -56,46 +54,43 @@
 |   |   |-- 0 - Time System.md
 |   |   |-- 1 - Present Simple/
 |   |   |   `-- Present Simple.md
-|   |   `-- 2 - Past Simple/
-|   |       |-- Past Simple.md
-|   |       `-- Таблица неправильных глаголов.md
+|   |   |-- 2 - Past Simple/
+|   |   |   |-- Past Simple.md
+|   |   |   `-- Таблица неправильных глаголов.md
+|   |   `-- 3 - Future Simple/
+|   |       `-- Future Simple.md
 |   `-- Tests/
 |       |-- 0 - Practice.md
 |       |-- Any practice/
 |       |   |-- 0 - Grammar Practice.md
 |       |   |-- Control Sentence Core TEST.md
 |       |   |-- Question review.md
-|       |   |-- Reading/
-|       |   |   |-- 0 - Reading.md
-|       |   |   |-- 23.07.2026.md
-|       |   |   |-- 02.08.2026.md
-|       |   |   |-- 07.08.2026.md
-|       |   |   `-- 13.08.2026.md
 |       |   `-- Практика по дням/
 |       |       |-- 0 - README.md
 |       |       |-- Июль/31.07.2026.md
-|       |       `-- Август/
-|       |           |-- 06.08.2026.md
-|       |           |-- 10.08.2026.md
-|       |           |-- 12.08.2026.md
-|       |           `-- 15.08.2026.md
+|       |       `-- Август/*.md
 |       |-- Listening/
 |       |   |-- 0 - Listening.md
-|       |   |-- 22.07.2026 British council A2.md
-|       |   |-- 30.07.2026 Who's who in the office.md
-|       |   |-- 05.08.2026.md
-|       |   `-- 11.08.2026.md
+|       |   |-- ListeningBank.md
+|       |   `-- занятия по датам, включая 05.09.2026.md
+|       |-- Reading/
+|       |   |-- 0 - Reading.md
+|       |   |-- ReadingBank.md
+|       |   `-- занятия по датам, включая 06.09.2026.md
 |       |-- Speaking/
 |       |   `-- 08.08.2026.md
 |       `-- Writing/
 |           |-- 0 - Writing.md
 |           |-- Essay about me.md
 |           |-- Writing 04.08.2026.md
-|           `-- Writing 16.08.2026.md
+|           |-- Writing 16.08.2026.md
+|           `-- 29.08.2026.md
+|-- Vocabulary/
+|   |-- Quotes.md
+|   `-- Words.md
 |-- Dashboard.md
 |-- README.md
 |-- Time Managment.md
-|-- Words.md
 `-- Ссылки.md
 ```
 
@@ -129,9 +124,13 @@
 
 Новый этап про Past Simple. Файл `Past Simple.md` содержит базовое назначение времени, утвердительные предложения, отрицания через `didn't + base verb`, вопросы через `Did + subject + base verb`, правильные и неправильные глаголы, `was/were`, `had`, произношение окончания `-ed`, случаи употребления Past Simple и правила образования прошедшей формы у правильных глаголов: `-ed`, `-y -> -ied`, сохранение `-y` после гласной и удвоение согласной. Файл `Таблица неправильных глаголов.md` хранит V1/V2/V3, транскрипцию и перевод ключевых irregular verbs.
 
+### `English Roadmap Tree/2) Time System/3 - Future Simple/`
+
+Материал по Future Simple: утверждения, отрицания и вопросы с `will`, а также базовое различие между спонтанным решением через `will` и заранее принятым планом через `be going to`.
+
 ### `English Roadmap Tree/Tests/`
 
-Практическая зона для checkpoints и тренировки навыков. Сейчас папка разделена по типам работы: `Any practice`, `Listening`, `Speaking`, `Writing`. Reading находится внутри `Any practice`, рядом с общей грамматической и дневной практикой.
+Практическая зона для checkpoints и тренировки навыков. Сейчас папка разделена по типам работы: `Any practice`, `Listening`, `Reading`, `Speaking`, `Writing`.
 
 ### `English Roadmap Tree/Tests/Any practice/`
 
@@ -139,25 +138,29 @@
 
 ### `English Roadmap Tree/Tests/Any practice/Практика по дням/`
 
-Дневная практика и история общения с ChatGPT/тестами/учебниками. `0 - README.md` описывает идею папки: собирать контекст занятий по дням и позже анализировать статистику прогресса. Помимо Present Simple checkpoint за `31.07.2026`, здесь есть августовские занятия за `06.08`, `10.08`, `12.08` и `15.08`: Past Simple, `did/didn't`, `was/were`, вопросы к подлежащему, Sentence Building, collocations и короткий письменный output.
+Дневная практика и история общения с ChatGPT/тестами/учебниками. `0 - README.md` описывает идею папки: собирать контекст занятий по дням и позже анализировать статистику прогресса. Помимо Present Simple checkpoint за `31.07.2026`, здесь хранятся августовские занятия по `31.08.2026` включительно: Past Simple, Sentence Building, Future clauses, collocations и короткий письменный output.
 
 ### `English Roadmap Tree/Tests/Listening/`
 
-Listening practice по материалам British Council A2. Сейчас есть:
+Listening practice по материалам British Council и VOA уровней A2–B1. `ListeningBank.md` хранит список уже использованных материалов. Сейчас есть:
 
 - `22.07.2026 British council A2.md` - morning briefing, заметки по аудированию, фразы `I wanted to tell you about`, `canteen`, `cashless payment system`, `salary`, собственный output.
 - `30.07.2026 Who's who in the office.md` - office introduction, colleagues, roles, partial dictation, Present Simple examples inside audio, retelling.
 - `05.08.2026.md` - четыре коротких диалога, определение ситуации и эмоций, точечное распознавание Past Simple и пересказ;
 - `11.08.2026.md` - диалог о планах на театр и концерт, результаты Preparation `12/12`, Task 1 `8/8`, Task 2 `6/6`, восстановление chunks и Sentence Building.
+- `18.08.2026.md` и `25.08.2026.md` - B1 listening с gist, details и восстановлением chunks;
+- `05.09.2026.md` - VOA Level 2, Lesson 2: gist, details и partial dictation.
 
-### `English Roadmap Tree/Tests/Any practice/Reading/`
+### `English Roadmap Tree/Tests/Reading/`
 
-Reading practice. Сейчас содержит:
+Reading practice. `ReadingBank.md` хранит список уже использованных материалов. Сейчас содержит:
 
 - `23.07.2026.md` - текст про backend developer Alex, ответы по-русски и по-английски, закрепление Present Simple;
 - `02.08.2026.md` - A2-текст о крушении туристического самолета рядом с линиями Наска с трехэтапным планом: чтение без словаря и формулировка основной мысли, полезные выражения и вопросы, затем краткий пересказ.
 - `07.08.2026.md` - рассказ British Council `Frank's Last Case`, понимание сюжета, поиск Past Simple, пересказ голосовым вводом и тренировка произношения с результатом `79%`;
 - `13.08.2026.md` - `First Star I See Tonight`, вопросы на gist/details, полезные конструкции и результаты Task 1/Task 2 по `8/8`.
+- `22.08.2026.md` и `27.08.2026.md` - B1 reading с gist, details и inference;
+- `06.09.2026.md` - два B1-текста: про доставку Uber Eats дронами и новую карту размеров Африки.
 
 ### `English Roadmap Tree/Tests/Speaking/`
 
@@ -170,14 +173,15 @@ Writing output. Сейчас содержит:
 - `Essay about me.md` - текст о себе для проверки грамматики, исправления ошибок, улучшения формулировок и отслеживания прогресса в письме;
 - `Writing 04.08.2026.md` - 75-минутный checkpoint по Present Simple и Past Simple: диагностика, перевод, два рассказа о рабочем дне, исправления, оценка навыков и список ошибок для повторения. Контролируемая грамматика выполнена на `12/12`, итоговая оценка занятия - `7/10`.
 - `Writing 16.08.2026.md` - итоговый текст недели о рабочих проблемах, ожидании доступа к новому проекту и следующих шагах; содержит первоначальный вариант и короткий переработанный output.
+- `29.08.2026.md` - письменная практика на коммуникативную тему с последующим разбором ошибок.
 
 ### `Time Managment.md`
 
-Учебный календарь с фактами и ссылками на результаты. В нём зафиксированы недели `03.08.2026-09.08.2026` и `10.08.2026-16.08.2026`, а также подготовлен план на `17.08.2026-23.08.2026`: Sentence Building, Listening A2→B1, следующий узел Time System, Reading B1, Speaking, transfer checkpoint и Writing review.
+Учебный календарь с планами, фактическим временем, статусами и ссылками на результаты за период с 3 августа по 6 сентября 2026 года.
 
-### `Words.md`
+### `Vocabulary/`
 
-Корневой словарный файл для новых слов и выражений, которые появляются во время занятий. Помимо ранних рабочих и бытовых выражений, сейчас содержит `definition`, `definitely`, `guilty`, `prosecution`, `to twinkle`, примеры употребления и словарные заметки.
+`Words.md` хранит отдельные слова с переводами и примерами, а `Quotes.md` — полезные фразы и chunks из занятий.
 
 ### `Ссылки.md`
 
@@ -193,7 +197,7 @@ Writing output. Сейчас содержит:
 
 ## Current Learning Focus
 
-Текущий фокус: закрепление **Sentence Core**, Present Simple и Past Simple через новые контексты, а не переход к следующему времени. Основная зона роста - естественное построение предложений: collocations, предлоги, артикли, определители и неправильные глаголы.
+Текущий фокус: закрепление **Sentence Core**, Present Simple, Past Simple и базовых future-конструкций через новые контексты. Основная зона роста - естественное построение предложений: collocations, предлоги, артикли, определители и неправильные глаголы.
 
 Активные темы Sentence Core:
 
@@ -273,9 +277,9 @@ ChatGPT должен использовать репозиторий как уч
 4. Использовать `English Roadmap Tree/1) Sentence Core/Word order.md` как главный файл по структуре предложения и вопросам.
 5. Использовать `English Roadmap Tree/2) Time System/1 - Present Simple/Present Simple.md`, когда занятие касается настоящего времени, регулярных действий, `to be`, коротких ответов, частотности, расписаний или правил окончаний глаголов.
 6. Использовать `English Roadmap Tree/2) Time System/2 - Past Simple/Past Simple.md`, когда занятие касается прошлого времени, `did/didn't`, regular/irregular verbs или правил `-ed`.
-7. Проверять `Words.md`, если в занятии нужны слова, выражения или примеры их употребления.
+7. Проверять `Vocabulary/Words.md` и `Vocabulary/Quotes.md`, если в занятии нужны слова, выражения или примеры их употребления.
 8. Проверять `Ссылки.md`, если нужны быстрые внутренние переходы к важным заметкам и якорям.
-9. Использовать `English Roadmap Tree/Tests/Any practice/`, `Any practice/Reading/`, `Listening/`, `Speaking/` и `Writing/` для проверки, анализа ошибок и планирования повторения.
+9. Использовать `English Roadmap Tree/Tests/Any practice/`, `Reading/`, `Listening/`, `Speaking/` и `Writing/` для проверки, анализа ошибок и планирования повторения.
 10. Использовать `English Roadmap Tree/Tests/Any practice/Практика по дням/` как дневник занятий и источник статистики прогресса.
 11. Читать `Time Managment.md` перед планированием следующего занятия и обновлять статус только по фактически выполненной работе.
 12. Возвращать ошибки из `Writing 04.08.2026.md` и `Writing 16.08.2026.md` в новых контекстах, особенно collocations, предлоги, артикли, verb patterns и irregular verbs.
@@ -345,7 +349,6 @@ sentence-building/
 practice/
 errors/
 progress/
-vocabulary/
 input/
 output/
 sources/
@@ -359,7 +362,6 @@ checkpoints/
 - `practice/` - отдельная папка для упражнений, если `English Roadmap Tree/Tests/` станет слишком большой.
 - `errors/` - журнал ошибок, исправления и повторяющиеся слабые места.
 - `progress/` - история занятий и краткие отчеты о прогрессе.
-- `vocabulary/` - будущая папка для расширения `Words.md`: слова, фразы, collocations и тематические списки.
 - `input/` - отдельная папка для текстов, аудио, видео и материалов для разбора, если они будут вынесены из `Tests/`.
 - `output/` - отдельная папка для письменных ответов, speaking scripts и исправленных работ, если они будут вынесены из `Tests/Writing/`.
 - `sources/` - надежные источники и справочные материалы.
