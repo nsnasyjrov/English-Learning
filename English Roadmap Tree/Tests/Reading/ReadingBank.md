@@ -12,6 +12,8 @@
 | 13.08.2026 | First Star I See Tonight | A2–B1 | https://learnenglish.britishcouncil.org/free-resources/general/story-zone/a2-b1/first-star-i-see-tonight-a2/b1 | recorded in lesson |
 | 22.08.2026 | An email request for help | B1 | https://learnenglish.britishcouncil.org/free-resources/reading/b1/email-request-help | recorded in lesson |
 | 27.08.2026 | Innovation in business | B1 | https://learnenglish.britishcouncil.org/free-resources/reading/b1/innovation-business | recorded in lesson |
+| 06.09.2026 | Uber Eats Plans Drone Food Delivery | B1 | https://readinlevels.com/uber-eats-to-launch-drone-delivery-with-zipline/b1 | assigned in lesson |
+| 06.09.2026 | UN Picks New Map for Africa's Size | B1 | https://readinlevels.com/un-retires-mercator-map-that-shrinks-africa/b1 | assigned in lesson |
 
 ## Maintenance rule
 
