@@ -15,8 +15,8 @@
 | 06.09.2026 | Uber Eats Plans Drone Food Delivery | B1 | https://readinlevels.com/uber-eats-to-launch-drone-delivery-with-zipline/b1 | assigned in lesson |
 | 06.09.2026 | UN Picks New Map for Africa's Size | B1 | https://readinlevels.com/un-retires-mercator-map-that-shrinks-africa/b1 | assigned in lesson |
 
-| 19.09.2026 | An invitation to a job interview | A2 | https://learnenglish.britishcouncil.org/free-resources/reading/a2/invitation-job-interview | assigned; not completed |
-| 24.09.2026 | Choosing a conference venue | A2 | https://learnenglish.britishcouncil.org/free-resources/reading/a2/choosing-conference-venue | assigned; not completed |
+| 19.09.2026 | Planning an event | B1 | https://learnenglish.britishcouncil.org/free-resources/reading/b1/planning-event | assigned; not completed |
+| 24.09.2026 | Digital habits across generations | B1 | https://learnenglish.britishcouncil.org/free-resources/reading/b1/digital-habits-across-generations | assigned; not completed |
 
 ## Maintenance rule
 
