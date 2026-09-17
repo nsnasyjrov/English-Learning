@@ -14,6 +14,9 @@
 | 25.08.2026 | Making a decision | B1 | https://learnenglish.britishcouncil.org/free-resources/listening/b1/making-decision | recorded in lesson |
 | 05.09.2026 | Let's Learn English Level 2 — Lesson 2: The Interview | A2+; some B1 chunks | https://learningenglish.voanews.com/a/lets-learn-english-level-2-lesson-2/3960471.html | current completed session |
 
+| 18.09.2026 | Changing a meeting time | A2 | https://learnenglish.britishcouncil.org/free-resources/listening/a2/changing-meeting-time | assigned; not completed |
+| 22.09.2026 | Leaving a message | A2 | https://learnenglish.britishcouncil.org/free-resources/listening/a2/leaving-message | assigned; not completed |
+
 ## Maintenance rule
 
 When a new listening material is assigned or completed, add it here with the date, title, working level and source URL. If the original lesson does not contain a source, restore it from the textual content only when the identification is reliable; otherwise write `source not recorded` instead of guessing.

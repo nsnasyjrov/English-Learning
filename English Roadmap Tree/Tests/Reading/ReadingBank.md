@@ -15,6 +15,9 @@
 | 06.09.2026 | Uber Eats Plans Drone Food Delivery | B1 | https://readinlevels.com/uber-eats-to-launch-drone-delivery-with-zipline/b1 | assigned in lesson |
 | 06.09.2026 | UN Picks New Map for Africa's Size | B1 | https://readinlevels.com/un-retires-mercator-map-that-shrinks-africa/b1 | assigned in lesson |
 
+| 19.09.2026 | An invitation to a job interview | A2 | https://learnenglish.britishcouncil.org/free-resources/reading/a2/invitation-job-interview | assigned; not completed |
+| 24.09.2026 | Choosing a conference venue | A2 | https://learnenglish.britishcouncil.org/free-resources/reading/a2/choosing-conference-venue | assigned; not completed |
+
 ## Maintenance rule
 
 When a new reading material is assigned or completed, add it here with the date, title, working level and source URL. If the original lesson does not contain a source, restore it from the textual content only when the identification is reliable; otherwise write `source not recorded` instead of guessing.
