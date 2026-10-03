@@ -22,8 +22,37 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "e5bb248bcbb5e571",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03.10.2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03.10.2026"
+            }
+          },
+          {
+            "id": "32367502dd72584d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Time Managment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Time Managment"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +98,7 @@
             }
           },
           {
-            "id": "1f329afa731aec3a",
+            "id": "84e501c21ba485fb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9f9cc11ab5fabf28",
@@ -185,54 +215,53 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "32367502dd72584d",
   "lastOpenFiles": [
     "Dashboard.md",
-    "05.09.2026.md",
+    "03.10.2026.md",
+    "Изображения/Pasted image 20261003233504.png",
     "Time Managment.md",
-    "Ссылки.md",
+    "02.10.2026.md",
+    "Изображения/Pasted image 20261002171237.png",
+    "English Roadmap Tree/Tests/Listening/01.10.2026.md",
     "English Roadmap Tree/2) Time System/2 - Past Simple/Таблица неправильных глаголов.md",
-    "31.08.2026.md",
-    "Vocabulary/Words.md",
-    "Vocabulary/Quotes.md",
-    "Без названия.md",
-    "Vocabulary",
-    "English Roadmap Tree/Tests/Any practice/Практика по дням/Август/30.08.2026.md",
-    "``.md",
-    "English Roadmap Tree/Tests/Any practice/Практика по дням/Август/28.08.2026.md",
-    "English Roadmap Tree/Tests/Writing/29.08.2026.md",
-    "English Roadmap Tree/Tests/Reading/27.08.2026.md",
-    "Error Bank.md",
-    "English Roadmap Tree/Tests/Listening/25.08.2026.md",
-    "24.08.2026.md",
-    "English Roadmap Tree/ROADMAP.MD.md",
-    "English Roadmap Tree/Tests/Reading/22.08.2026.md",
-    "English Roadmap Tree/Tests/Any practice/Практика по дням/Август/23.08.2026.md",
-    "English Roadmap Tree/Verb Patterns.md",
-    "English Roadmap Tree/Tests/Reading/07.08.2026.md",
-    "English Roadmap Tree/Tests/Listening/05.08.2026.md",
+    "English Roadmap Tree/Tests/Homework/02.10.2026/Homework 02.10.2026.md",
+    "Изображения/Pasted image 20261001201544.png",
+    "Изображения/Pasted image 20261001195632.png",
+    "English Roadmap Tree/Tests/Any practice/Практика по дням/Август/06.08.2026.md",
+    "English Roadmap Tree/Tests/Any practice/Практика по дням/Сентябрь/27.09.2026.md",
+    "English Roadmap Tree/Tests/Any practice/Практика по дням/Октябрь",
+    "Изображения/Pasted image 20261001195328.png",
+    "English Roadmap Tree/Tests/Homework/02.10.2026",
+    "English Roadmap Tree/Tests/Homework",
+    "English Roadmap Tree/Tests/Listening/26.09.2026.md",
+    "Изображения/Pasted image 20260927003530.png",
+    "Изображения/Pasted image 20260927003521.png",
+    "Ссылки.md",
     "English Roadmap Tree/Tests/Writing/Writing 04.08.2026.md",
+    "English Roadmap Tree/Tests/Reading/19.09.2026.md",
+    "exports/ChatGPT-Project-Английский-PARTIAL-2-chats-2026-09-05/01-6a972416-8dec-83ed-8ae3-fa1f21e147fb/conversation.md",
+    "English Roadmap Tree/Tests/Listening/18.09.2026.md",
+    "English Roadmap Tree/Schedule/Weekly Schedule 12h.md",
+    "English Roadmap Tree/Schedule/Weekly English Schedule — 12h.md",
+    "English Roadmap Tree/Schedule",
+    "English Roadmap Tree/Tests/Listening/10.09.2026.md",
+    "08.09.2026.md",
+    "English Roadmap Tree/Tests/Any practice/Практика по дням/Сентябрь/07.09.2026.md",
+    "English Roadmap Tree/ROADMAP.MD.md",
+    "English Roadmap Tree/Tests/Any practice/Практика по дням/0 - README.md",
+    "English Roadmap Tree/Tests/Any practice/0 - Grammar Practice.md",
+    "English Roadmap Tree/Tests/Any practice/Практика по дням/Сентябрь",
+    "English Roadmap Tree/Tests/Any practice/31.08.2026.md",
+    "06.09.2026.md",
+    "exports/ChatGPT-Project-Английский-PARTIAL-2-chats-2026-09-05.zip",
+    "exports/ChatGPT-Project-Английский-PARTIAL-2-chats-2026-09-05/02-6a95de94-9c70-83eb-90a7-b8097e960003/conversation.json",
+    "exports/ChatGPT-Project-Английский-PARTIAL-2-chats-2026-09-05/01-6a972416-8dec-83ed-8ae3-fa1f21e147fb/conversation.json",
+    "exports/ChatGPT-Project-Английский-PARTIAL-2-chats-2026-09-05/manifest.json",
+    "exports/ChatGPT-Project-Английский-PARTIAL-2-chats-2026-09-05/02-6a95de94-9c70-83eb-90a7-b8097e960003",
     "Изображения/Pasted image 20260822194623.png",
     "Изображения/Pasted image 20260822184242.png",
-    "Изображения",
-    "English Roadmap Tree/2) Time System/3 - Future Simple/Future Simple.md",
-    "English Roadmap Tree/2) Time System/3 - Future Simple",
-    "English Roadmap Tree/1) Sentence Core/Cases - Падежи в английском.md",
-    "English Roadmap Tree/Tests/Writing/Без названия",
     "English Roadmap Tree/1) Sentence Core/Изображения/Pasted image 20260813200407.png",
-    "English Roadmap Tree/1) Sentence Core/Изображения/Pasted image 20260813195641.png",
-    "English Roadmap Tree/Tests/Speaking",
-    "English Roadmap Tree/1) Sentence Core/Изображения/Pasted image 20260802183717.png",
-    "English Roadmap Tree/1) Sentence Core/Изображения/ROADMAP.png",
-    "Изображения/ddfa565678fc66873264d3b72d03a391.jpg",
-    "ddfa565678fc66873264d3b72d03a391.jpg",
-    "English Roadmap Tree/Tests/Any practice/Практика по дням/Август",
-    "English Roadmap Tree/Logs",
-    "English Roadmap Tree/2) Time System/2 - Past Simple",
-    "English Roadmap Tree/Tests/Any practice/Практика по дням/Июль",
-    "English Roadmap Tree/Tests/Any practice/Практика по дням",
-    "English Roadmap Tree/1) Sentence Core/Изображения/Pasted image 20260730235105.png",
-    "English Roadmap Tree/1) Sentence Core/Изображения/Pasted image 20260730235229.png",
     "Без названия.canvas"
   ]
 }
