@@ -17,6 +17,8 @@
 | 18.09.2026 | A team meeting about diversity | B1 | https://learnenglish.britishcouncil.org/free-resources/listening/b1/team-meeting-about-diversity | completed; Task 1 5/6, Task 2 3/3 |
 | 22.09.2026 | An interview about listening skills | B1 | https://learnenglish.britishcouncil.org/free-resources/listening/b1/interview-about-listening-skills | assigned 22.09; completed 26.09; Task 1 4/6, Task 2 4/6 |
 
+| 06.10.2026 | Work–life balance | B1 | https://learnenglish.britishcouncil.org/free-resources/listening/b1/work-life-balance | assigned; not completed |
+
 ## Maintenance rule
 
 When a new listening material is assigned or completed, add it here with the date, title, working level and source URL. If the original lesson does not contain a source, restore it from the textual content only when the identification is reliable; otherwise write `source not recorded` instead of guessing.
