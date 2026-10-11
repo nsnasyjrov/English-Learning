@@ -1,0 +1,32 @@
+{
+  "exportSchemaVersion": 1,
+  "project": {
+    "id": "g-p-6a180a1822ac81919fe95781adb5ad96",
+    "name": "Английский"
+  },
+  "exportedAt": "2026-09-05T17:26:58.032Z",
+  "conversations": [
+    {
+      "number": 1,
+      "id": "6a972416-8dec-83ed-8ae3-fa1f21e147fb",
+      "title": "План listening тренировки",
+      "createdAt": 1788290072.644806,
+      "updatedAt": 1788627463.125143,
+      "turns": 15,
+      "attachments": 0,
+      "pages": 2,
+      "maxTextLength": 6416
+    },
+    {
+      "number": 2,
+      "id": "6a95de94-9c70-83eb-90a7-b8097e960003",
+      "title": "Смешанный Sentence Core урок",
+      "createdAt": 1788206769.445001,
+      "updatedAt": 1788211102.107538,
+      "turns": 11,
+      "attachments": 0,
+      "pages": 2,
+      "maxTextLength": 7390
+    }
+  ]
+}

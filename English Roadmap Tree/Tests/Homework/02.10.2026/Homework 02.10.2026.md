@@ -14,7 +14,7 @@
 1) In autumn, the leaves turn red and yellow. - Осенью листья краснеют и желтеют
 2) The weather becomes cool and sometimes very windy.
 3) Farmers collect crops during the chilly.
-4) harvest(?) - не смог ответить
+4) frost
 5) People often wear a warm coat when it is cold outside
 6) The sky sometimes grey and cloudy.
 7) A strong wind moves the trees and leaves.
@@ -31,3 +31,5 @@
 18) The trees change their colors in this season.
 19) Some days are cold and very frost.
 20) vegetables
+
+![[Pasted image 20261004124606.png]]

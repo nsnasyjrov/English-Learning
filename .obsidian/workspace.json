@@ -24,21 +24,21 @@
             }
           },
           {
-            "id": "e5bb248bcbb5e571",
+            "id": "d98bc72e71a715da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03.10.2026.md",
+                "file": "English Roadmap Tree/Tests/Writing/10.10.2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03.10.2026"
+              "title": "10.10.2026"
             }
           },
           {
-            "id": "32367502dd72584d",
+            "id": "67e74c9d766c590d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,6 +49,20 @@
               },
               "icon": "lucide-file",
               "title": "Time Managment"
+            }
+          },
+          {
+            "id": "fa510fb2b2a4f982",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English Roadmap Tree/2) Time System/2 - Past Simple/Таблица неправильных глаголов.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Таблица неправильных глаголов"
             }
           }
         ],
@@ -114,8 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9f9cc11ab5fabf28",
@@ -199,6 +212,19 @@
               "icon": "lucide-list",
               "title": "Структура"
             }
+          },
+          {
+            "id": "743157d7b368ec1a",
+            "type": "leaf",
+            "state": {
+              "type": "callout-studio-occurrences",
+              "state": {
+                "ids": [],
+                "allTypes": true
+              },
+              "icon": "callout-studio-statistics",
+              "title": "Найти callout"
+            }
           }
         ]
       }
@@ -209,34 +235,49 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "callout-studio:Быстрая вставка блочного callout": false,
       "homepage:Open homepage": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "32367502dd72584d",
+  "active": "67e74c9d766c590d",
   "lastOpenFiles": [
+    "English Roadmap Tree/2) Time System/2 - Past Simple/Таблица неправильных глаголов.md",
     "Dashboard.md",
-    "03.10.2026.md",
-    "Изображения/Pasted image 20261003233504.png",
     "Time Managment.md",
-    "02.10.2026.md",
+    "English Roadmap Tree/Tests/Listening/11.10.2026.md",
+    "English Roadmap Tree/Tests/Writing/10.10.2026.md",
+    "English Roadmap Tree/Tests/Any practice/Практика по дням/Октябрь/09.10.2026.md",
+    "Изображения/Pasted image 20261010195217.png",
+    "Изображения/Pasted image 20261010195121.png",
+    "Изображения/Pasted image 20261010194841.png",
+    "Изображения/Pasted image 20261010175727.png",
+    "Изображения/Pasted image 20261010175324.png",
+    "English Roadmap Tree/Tests/Reading/07.10.2026.md",
+    "Изображения/Pasted image 20261009221320.png",
+    "English Roadmap Tree/Tests/Any practice/Практика по дням/Октябрь/06.10.2026.md",
+    "English Roadmap Tree/Tests/Any practice/Практика по дням/Без названия",
+    "Изображения/Pasted image 20261007214828.png",
+    "Error Bank.md",
+    "English Roadmap Tree/Tests/Listening/0 - Listening.md",
+    "English Roadmap Tree/Tests/Homework/02.10.2026/Homework 02.10.2026.md",
+    "Изображения/Pasted image 20261004124606.png",
+    "English Roadmap Tree/2) Time System/4 - Present Continious/Present Continious.md",
+    "English Roadmap Tree/2) Time System/2 - Past Simple/Past Simple.md",
+    "English Roadmap Tree/2) Time System/4 - Present Continious",
+    "English Roadmap Tree/Tests/Reading/02.10.2026.md",
+    "English Roadmap Tree/Tests/Any practice/Практика по дням/Сентябрь/18.09.2026.md",
+    "Изображения/Pasted image 20261003233504.png",
     "Изображения/Pasted image 20261002171237.png",
     "English Roadmap Tree/Tests/Listening/01.10.2026.md",
-    "English Roadmap Tree/2) Time System/2 - Past Simple/Таблица неправильных глаголов.md",
-    "English Roadmap Tree/Tests/Homework/02.10.2026/Homework 02.10.2026.md",
-    "Изображения/Pasted image 20261001201544.png",
-    "Изображения/Pasted image 20261001195632.png",
     "English Roadmap Tree/Tests/Any practice/Практика по дням/Август/06.08.2026.md",
     "English Roadmap Tree/Tests/Any practice/Практика по дням/Сентябрь/27.09.2026.md",
     "English Roadmap Tree/Tests/Any practice/Практика по дням/Октябрь",
-    "Изображения/Pasted image 20261001195328.png",
     "English Roadmap Tree/Tests/Homework/02.10.2026",
     "English Roadmap Tree/Tests/Homework",
     "English Roadmap Tree/Tests/Listening/26.09.2026.md",
-    "Изображения/Pasted image 20260927003530.png",
-    "Изображения/Pasted image 20260927003521.png",
     "Ссылки.md",
     "English Roadmap Tree/Tests/Writing/Writing 04.08.2026.md",
     "English Roadmap Tree/Tests/Reading/19.09.2026.md",
@@ -245,23 +286,10 @@
     "English Roadmap Tree/Schedule/Weekly Schedule 12h.md",
     "English Roadmap Tree/Schedule/Weekly English Schedule — 12h.md",
     "English Roadmap Tree/Schedule",
-    "English Roadmap Tree/Tests/Listening/10.09.2026.md",
-    "08.09.2026.md",
-    "English Roadmap Tree/Tests/Any practice/Практика по дням/Сентябрь/07.09.2026.md",
-    "English Roadmap Tree/ROADMAP.MD.md",
-    "English Roadmap Tree/Tests/Any practice/Практика по дням/0 - README.md",
-    "English Roadmap Tree/Tests/Any practice/0 - Grammar Practice.md",
     "English Roadmap Tree/Tests/Any practice/Практика по дням/Сентябрь",
-    "English Roadmap Tree/Tests/Any practice/31.08.2026.md",
-    "06.09.2026.md",
     "exports/ChatGPT-Project-Английский-PARTIAL-2-chats-2026-09-05.zip",
     "exports/ChatGPT-Project-Английский-PARTIAL-2-chats-2026-09-05/02-6a95de94-9c70-83eb-90a7-b8097e960003/conversation.json",
     "exports/ChatGPT-Project-Английский-PARTIAL-2-chats-2026-09-05/01-6a972416-8dec-83ed-8ae3-fa1f21e147fb/conversation.json",
-    "exports/ChatGPT-Project-Английский-PARTIAL-2-chats-2026-09-05/manifest.json",
-    "exports/ChatGPT-Project-Английский-PARTIAL-2-chats-2026-09-05/02-6a95de94-9c70-83eb-90a7-b8097e960003",
-    "Изображения/Pasted image 20260822194623.png",
-    "Изображения/Pasted image 20260822184242.png",
-    "English Roadmap Tree/1) Sentence Core/Изображения/Pasted image 20260813200407.png",
     "Без названия.canvas"
   ]
 }

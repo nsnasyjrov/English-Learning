@@ -1,0 +1,400 @@
+{
+  "exportSchemaVersion": 1,
+  "project": {
+    "id": "g-p-6a180a1822ac81919fe95781adb5ad96",
+    "name": "Английский"
+  },
+  "exportedAt": "2026-09-05T17:26:56.986Z",
+  "thread": {
+    "id": "6a972416-8dec-83ed-8ae3-fa1f21e147fb",
+    "kind": "chatgpt",
+    "title": "План listening тренировки",
+    "preview": "Готово.\n\nСоздал:\n\n- `English Roadmap Tree/Tests/Listening/ListeningBank.md` — 7 материалов, включая сегодняшний VOA **The Interview**. \n- `English Roadmap Tree/Tests/Reading/ReadingBank.md` — 6 материалов. \n\nПри восстановлении истории не стал выдумывать источники:\n- `11.08` восстановлен по содержанию как British Council **Changing plans**, A2. citeturn149120search3\n- `18.08` — **A phone call from a customer**, B1.\n- `23.07 Reading` внешнего источника не содержит, поэтому записан как внутренний текст репозитория.\n\nВ `README.md` добавил обязательное правило: перед любым новым Reading/Listening сначала читать соответствующий Bank; уже использованный материал нельзя выдавать как новый; повтор — только намеренно как `review/retest/progress check`; новые материалы после назначения/прохождения добавляются в банк. \n\nТо есть сегодняшний косяк с повторным предложением `A phone call from a customer` теперь системно закрыт.\n\nВ сами custom instructions проекта я через доступные инструменты залезть не могу. Но правило уже находится в README репозитория и сохранено у меня как постоянное требование для этого английского проекта.",
+    "status": {
+      "type": "idle"
+    },
+    "cwd": null,
+    "createdAt": 1788290072.644806,
+    "updatedAt": 1788627463.125143
+  },
+  "attachments": [],
+  "order": "oldest_first",
+  "turns": [
+    {
+      "id": "31e8bfdd-6db1-4b63-98ac-882ae6b2e241",
+      "status": "completed",
+      "error": null,
+      "startedAt": 1788290071.339,
+      "completedAt": 1788290083.318204,
+      "durationMs": null,
+      "items": [
+        {
+          "type": "userMessage",
+          "id": "31e8bfdd-6db1-4b63-98ac-882ae6b2e241",
+          "content": [
+            {
+              "type": "text",
+              "text": "Новый день, новая работа. Сегодня listening. Я капец уставший, не делал ничего по проекту ерп, но английский поделать готов - я занимался крупной интеграцией методом вайбкода - делал себе спортивный крутой дневник с sync"
+            }
+          ]
+        },
+        {
+          "type": "agentMessage",
+          "id": "386eec58-38ec-4dc0-acde-317bc4c1a537",
+          "text": "Сегодняшний listening сделаем облегчённым по нагрузке, но нормальным по качеству. После дня с большой интеграцией заставлять тебя ещё 75 минут активно строить предложения — плохая экономика внимания.\n\nБерём VOA Learning English — Let’s Learn English Level 2, Lesson 2: “The Interview”. Level 2 у VOA рассчитан на intermediate learners, а сам материал содержит настоящий listening quiz. citeturn502935search0turn502935search2 VOA в целом специально использует более доступную лексику и более медленную речь, поэтому сейчас это подходящий источник. fileciteturn0file2\n\n[VOA — Lesson 2: The Interview](https://learningenglish.voanews.com/a/lets-learn-english-level-2-lesson-2/3960471.html?utm_source=chatgpt.com)\n\nСегодня ориентир — 50–60 минут:\n\n1. First listening — gist, без текста.\n2. Second listening — details.\n3. Third listening — chunks / что реально не расслышал.\n4. Небольшой micro-dictation.\n5. 5–10 минут speaking/output.\n6. Если мозг окончательно скажет «иди нахер» — заканчиваем после 45 минут. Это не провал.\n\nВажно: на странице есть transcript. Пока туда не смотри. И встроенный quiz тоже пока не проходи.\n\nНачинаем.\n\n### Stage 1 — Gist\n\nПрослушай разговор один раз целиком. Видео около 5 минут, основная conversation-аудиодорожка — около 4 минут. Не ставь на паузу. Не перематывай. Не пытайся понять каждое слово.\n\nПосле первого прослушивания ответь по-английски своими словами:\n\n**1. What is happening in this lesson?**\n\n**2. Why does Pete have an interview?**\n\n**3. Do you think Pete is a good candidate for the job? Why or why not?**\n\nЗдесь мне не нужны точные слова из аудио. Даже если понял процентов 60 — собирай ответ из того, что понял.\n\nИ отдельно после ответов напиши:\n\n**Understanding: __%**\n\nНапример: `Understanding: 70%`.\n\nДальше разберём, что ты действительно услышал, а что мозг достроил по контексту."
+        }
+      ]
+    },
+    {
+      "id": "c5ceaa90-a5b1-4c26-ae1a-075fa31298a7",
+      "status": "completed",
+      "error": null,
+      "startedAt": 1788297244.353,
+      "completedAt": 1788297244.829771,
+      "durationMs": null,
+      "items": [
+        {
+          "type": "userMessage",
+          "id": "c5ceaa90-a5b1-4c26-ae1a-075fa31298a7",
+          "content": [
+            {
+              "type": "text",
+              "text": "Э, нет, в общем нет, сегодня отмена с английским, я проебался. Что поделать."
+            }
+          ]
+        },
+        {
+          "type": "agentMessage",
+          "id": "ae0bc253-6229-4460-8b6a-d2c821279e46",
+          "text": "Фиксируем пропуск. Ничего компенсировать двойным занятием не надо — это обычно только ломает расписание.\n\nСледующее занятие просто продолжаем по плану: listening остаётся следующим блоком, без штрафных 75+75 минут. Один пропущенный день на прогресс практически не влияет; важнее не превратить его в три подряд."
+        }
+      ]
+    },
+    {
+      "id": "dcdeb7a6-9beb-4eeb-b331-3aa925caf953",
+      "status": "completed",
+      "error": null,
+      "startedAt": 1788429439.152,
+      "completedAt": 1788429445.354623,
+      "durationMs": null,
+      "items": [
+        {
+          "type": "userMessage",
+          "id": "dcdeb7a6-9beb-4eeb-b331-3aa925caf953",
+          "content": [
+            {
+              "type": "text",
+              "text": "привет"
+            }
+          ]
+        },
+        {
+          "type": "agentMessage",
+          "id": "7e953cb6-7c13-47d8-b8c8-70c39b18b798",
+          "text": "Привет."
+        }
+      ]
+    },
+    {
+      "id": "0c0e61ca-c69d-46dc-9b0e-63b1805e27cc",
+      "status": "completed",
+      "error": null,
+      "startedAt": 1788613556.603,
+      "completedAt": 1788613556.951701,
+      "durationMs": null,
+      "items": [
+        {
+          "type": "userMessage",
+          "id": "0c0e61ca-c69d-46dc-9b0e-63b1805e27cc",
+          "content": [
+            {
+              "type": "text",
+              "text": "Напомни, какой листенинг мы хотели делать?"
+            }
+          ]
+        },
+        {
+          "type": "agentMessage",
+          "id": "961772ad-56ac-4d59-aac0-9b60cacece21",
+          "text": "Мы хотели делать VOA Learning English — “Let’s Learn English Level 2, Lesson 2: The Interview”.\n\nПлан был такой: 50–60 минут, без транскрипта в начале.\n\n1. Первый проход — понять общий смысл.\n2. Второй — вытащить детали.\n3. Третий — разобрать chunks и места, которые не расслышал.\n4. Небольшой micro-dictation.\n5. 5–10 минут speaking/output по теме интервью.\n\nНа первом этапе я собирался дать тебе три вопроса:\n- What is happening in this lesson?\n- Why does Pete have an interview?\n- Do you think Pete is a good candidate for the job? Why or why not?\n\nИ после этого ты должен был оценить понимание в процентах.\n\nЕсли хочешь, можем сегодня именно с него и начать."
+        }
+      ]
+    },
+    {
+      "id": "d8d650ab-21fe-409f-b967-e07c12ff7a03",
+      "status": "completed",
+      "error": null,
+      "startedAt": 1788623100.646,
+      "completedAt": 1788623106.121302,
+      "durationMs": null,
+      "items": [
+        {
+          "type": "userMessage",
+          "id": "d8d650ab-21fe-409f-b967-e07c12ff7a03",
+          "content": [
+            {
+              "type": "text",
+              "text": "ссылку"
+            }
+          ]
+        },
+        {
+          "type": "agentMessage",
+          "id": "a1806942-20ac-405c-945d-268738b5f684",
+          "text": "[VOA Learning English — Lesson 2: The Interview](https://learningenglish.voanews.com/a/lets-learn-english-level-2-lesson-2/3960471.html)"
+        }
+      ]
+    },
+    {
+      "id": "b7553df2-fecb-4a8d-b940-47b6aa08abc0",
+      "status": "completed",
+      "error": null,
+      "startedAt": 1788623851.728,
+      "completedAt": 1788623855.305417,
+      "durationMs": null,
+      "items": [
+        {
+          "type": "userMessage",
+          "id": "b7553df2-fecb-4a8d-b940-47b6aa08abc0",
+          "content": [
+            {
+              "type": "text",
+              "text": "так давай начнем занятие что ли. запиши что там нужо"
+            }
+          ]
+        },
+        {
+          "type": "agentMessage",
+          "id": "248f5338-2850-4760-87e7-566806e5de30",
+          "text": "Сегодня делаем именно listening, не смотрим видео и не читаем transcript. На странице используй блок **Conversation — 4:05**. Сам урок VOA построен вокруг разговора Анны, Пита и собеседования; отдельно там отрабатываются two-word/phrasal verbs. citeturn343036view0\n\n[VOA — Lesson 2: The Interview](https://learningenglish.voanews.com/a/lets-learn-english-level-2-lesson-2/3960471.html?utm_source=chatgpt.com)\n\nЗапиши:\n\n### Listening — The Interview\n**05.09.2026**\n\n**Source:** VOA Learning English, Level 2, Lesson 2  \n**Audio:** Conversation — 4:05\n\n### Stage 1 — Gist\n\nСейчас один раз слушаешь все 4:05.\n\nПравила:\n- transcript не открывать;\n- паузу не ставить;\n- назад не мотать;\n- незнакомые слова не искать;\n- не пытаться записывать фразы во время прослушивания.\n\nПосле прослушивания ответь по памяти:\n\n**1. What is Anna's new assignment?**\n\n**2. Why does Anna talk to Pete?**\n\n**3. Why is Pete looking for work?**  \nЕсли точную причину из аудио не услышал — так и напиши: `I don't know.` Не додумывай.\n\n**4. What happens during Pete's interview?**\n\n**5. Does Pete get the job?**\n\nИ в конце:\n\n**Understanding: __%**\n\nЗдесь специально есть вопросы разной сложности. Мне сейчас важнее определить, что ты реально вытащил из потока речи, а не насколько красиво построишь ответ.\n\nПрослушивай один раз и кидай ответы. После этого я проверю **понимание отдельно от английской грамматики** и дам Stage 2."
+        }
+      ]
+    },
+    {
+      "id": "4cf4bfa6-d7f4-4372-bccb-1e847dfe4c5a",
+      "status": "completed",
+      "error": null,
+      "startedAt": 1788624720.859,
+      "completedAt": 1788624723.381474,
+      "durationMs": null,
+      "items": [
+        {
+          "type": "userMessage",
+          "id": "4cf4bfa6-d7f4-4372-bccb-1e847dfe4c5a",
+          "content": [
+            {
+              "type": "text",
+              "text": "source: \n\n### Stage 1 — Gist\n\nСейчас один раз слушаешь все 4:05.\n\nПравила:\n\n- transcript не открывать;\n- паузу не ставить;\n- назад не мотать;\n- незнакомые слова не искать;\n- не пытаться записывать фразы во время прослушивания.\n\nПосле прослушивания ответь по памяти:\n\n**1. What is Anna's new assignment?**\n\nShe want to invite someone who be different then Anna\n\n**2. Why does Anna talk to Pete?**\n\nHe isn't communicative with people\n\n**3. Why is Pete looking for work?**\n\nЕсли точную причину из аудио не услышал — так и напиши: `I don't know.` Не додумывай.\n\nHe spend last two month with writing the book.\n\n**4. What happens during Pete's interview?**\n\nMrs Viether said, Joe is work with people bad, but she also offered accord to get a job to Joe. \n\n**5. Does Pete get the job?**\n\nYes\n\nИ в конце:\n\n**Understanding: \\_80%**"
+            }
+          ]
+        },
+        {
+          "type": "agentMessage",
+          "id": "20335f25-e45a-402e-bc6b-58e299e9ce0e",
+          "text": "По общему сюжету ты действительно понял довольно много, но **80% я бы пока не ставил**. Скорее **70–75% по этому первому проходу**: основную линию ты поймал, но один вопрос полностью подменил другой информацией из аудио, а в нескольких местах потерял детали. При этом твой **listening сейчас заметно сильнее, чем твоя способность оформить услышанное по-английски**.\n\nРазделю это специально.\n\n### 1. What is Anna's new assignment?\n\nOriginal: `She want to invite someone who be different then Anna`\n\nCorrect: **She wants to team up with someone who is different from her.**\n\nГрамматически: неправильно.  \nЕстественность: неестественно.\n\nПочему: ты услышал ключевую идею — **someone different from Anna**, это плюс по listening. Но `invite` в аудио нет. Ms. Weaver хочет, чтобы Anna **team up with someone** и вместе с ним вела программу. citeturn616618view0\n\nПо грамматике сразу три старые ошибки:\n\n- `She want` → **She wants**\n- `who be` → **who is**\n- `different then` → **different from**\n\nПравило простыми словами: **he/she/it → verb + s**, а если после `who` мы описываем состояние/качество, нужен `is`.\n\n---\n\n### 2. Why does Anna talk to Pete?\n\nOriginal: `He isn't communicative with people`\n\nCorrect: **Because he isn't good with people.**\n\nГрамматически: почти правильно.  \nЕстественность: твой вариант понятен, но неестественен.\n\nЗдесь **смысл ты поймал хорошо**. Anna нужна противоположность ей самой: она cheerful и a people person, а Pete — нет. citeturn616618view0\n\nЛучший chunk отсюда:\n\n**be good with people** = хорошо ладить с людьми\n\n> I'm good with people.  \n> He isn't good with people.  \n> Are you good with people?\n\n---\n\n### 3. Why is Pete looking for work?\n\nOriginal: `He spend last two month with writing the book.`\n\nЗдесь проблема уже не в английском, а именно в **понимании вопроса**.\n\nВ аудио **вообще не говорится, почему Pete ищет работу**. Он просто говорит:\n\n> he's busy looking for work.\n\nА история про книгу относится к совершенно другому вопросу на интервью — чем из своей работы он больше всего гордится. Он рассказывает, что в прошлом году провёл два месяца в домике и написал книгу. citeturn616618view0\n\nПоэтому правильный ответ:\n\n**I don't know. The conversation doesn't say why.**\n\nЭто важный навык listening: **не заполнять дыру информацией, которую ты услышал где-то рядом**.\n\nЕсли исправлять твою фразу отдельно:\n\nOriginal: `He spend last two month with writing the book.`\n\nCorrect: **He spent two months writing a book.**\n\n`spend` → **spent**, потому что прошлое.  \nПосле `spend time` → **V-ing**:\n\n> I spent two hours fixing a bug.  \n> She spent the evening studying.  \n> Pete spent two months writing a book.\n\nЭто тебе особенно полезный шаблон.\n\n---\n\n### 4. What happens during Pete's interview?\n\nOriginal: `Mrs Viether said, Joe is work with people bad, but she also offered accord to get a job to Joe.`\n\nТут listening гораздо лучше, чем выглядит по предложению.\n\nCorrect: **Ms. Weaver says that Pete is grumpy and not good with people, but he gets the job anyway.**\n\nТы правильно понял два главных факта:\n\n**not good with people → still gets the job**\n\nИменно на этом построена шутка сцены. citeturn616618view0\n\nНо имена уехали: **Ms. Weaver**, **Pete**, не Joe.\n\nА `is work with people bad` — снова проблема каркаса. Здесь не нужен глагол `work`:\n\n**He is not good with people.**\n\n---\n\n### 5. Does Pete get the job?\n\nOriginal: `Yes`\n\nCorrect: **Yes, he does.**\n\nПонимание: правильно. citeturn616618view0\n\nДля listening-ответа `Yes` достаточно, но мы заодно автоматизируем:\n\n> Does Pete get the job?  \n> **Yes, he does.**\n\n---\n\nИтого первого прохода:\n\n**Общий сюжет:** хороший.  \n**Главные события:** поймал.  \n**Отношения между персонажами:** поймал.  \n**Конкретные детали:** местами теряются.  \n**Одна серьёзная listening-ошибка:** смешал эпизод с книгой с причиной поиска работы.  \n**Output:** сильно слабее comprehension.\n\nИ это, кстати, довольно характерная для тебя сейчас картина: ты уже можешь понять мысль уровня выше той, которую способен самостоятельно грамотно сформулировать.\n\nТеперь **Stage 2 — Details**.\n\nСлушаешь аудио **второй раз целиком**. Transcript всё ещё не открывай. Теперь можно специально искать ответы, но **паузу пока не ставь**.\n\nПосле второго прохода:\n\n**1. What two things does Ms. Weaver say Anna is good at?**\n\n**2. What kind of person does Ms. Weaver want Anna to work with?**\n\n**3. What is Pete doing when Anna meets him?**\n\n**4. What time is Pete's interview?**\n\n**5. What does Ms. Weaver ask Pete about during the interview?**\n\n**6. Why was Pete happy when he was writing his book?**\n\n**7. What two negative things does Ms. Weaver say about Pete?**\n\nНа этот раз задача уже не «понял сюжет», а **вытянуть конкретную информацию из речи**. Не услышал — `I didn't catch it.` Не додумывай."
+        }
+      ]
+    },
+    {
+      "id": "03b2f92e-8369-4750-8c37-3ed9987f5f45",
+      "status": "completed",
+      "error": null,
+      "startedAt": 1788625656.264,
+      "completedAt": 1788625663.277367,
+      "durationMs": null,
+      "items": [
+        {
+          "type": "userMessage",
+          "id": "03b2f92e-8369-4750-8c37-3ed9987f5f45",
+          "content": [
+            {
+              "type": "text",
+              "text": "Слушаешь аудио **второй раз целиком**. Transcript всё ещё не открывай. Теперь можно специально искать ответы, но **паузу пока не ставь**.\n\n```\n```\n\nПосле второго прохода:\n\n**1. What two things does Ms. Weaver say Anna is good at?**\n\n- asking the questions\n- good with people\n   **2. What kind of person does Ms. Weaver want Anna to work with?**\n- Be different then Anna\n   **3. What is Pete doing when Anna meets him?**\n- He will choose the crossword.\n   **4. What time is Pete's interview?**\n   10 a.m\n   **5. What does Ms. Weaver ask Pete about during the interview?**\n- Is Pete the people person?\n- The best reason of proud about Pete last time\n   **6. Why was Pete happy when he was writing his book?**\n   He didn't meet people during two months.\n   **7. What two negative things does Ms. Weaver say about Pete?**\n- grumpy - idk that is it\n- he is bad with people"
+            }
+          ]
+        },
+        {
+          "type": "agentMessage",
+          "id": "79905573-d27f-46d6-bb0f-4161e935ef2a",
+          "text": "Вот после второго прохода уже можно сказать: твои **80% понимания выглядят реалистично**. Из 7 вопросов один провален, один частично, остальные по смыслу взяты. Причём пункты 5–7 ты услышал довольно хорошо. Самое слабое место всё то же: услышанную информацию ты понимаешь лучше, чем потом оформляешь в предложение.\n\n1. `asking the questions / good with people`\n\nПо listening: **частично правильно**.\n\nВ аудио Ms. Weaver говорит две вещи: Anna is **good at asking questions** и **a team player**. Позже она действительно называет Anna **a people person**, поэтому ты не придумал второй факт — просто взял его не из того места. citeturn103530view1\n\nOriginal: `asking the questions`\n\nCorrect: **She is good at asking questions, and she is a team player.**\n\nГрамматически: исходный ответ — не полное предложение.  \nЕстественность: как заметка допустимо, как ответ лучше полным предложением.\n\nПочему: `good at + V-ing`.\n\nПравило простыми словами: после **good at** действие ставим с `-ing`.\n\nЕщё 3 примера:\n- I'm good at solving technical problems.\n- Alex is good at explaining things.\n- Maria is good at working with customers.\n\n---\n\n2. `Be different then Anna`\n\nПо listening: **правильно**. Она действительно ищет человека, который сильно отличается от Anna. citeturn103530view1\n\nOriginal: `Be different then Anna`\n\nCorrect: **Someone who is different from Anna.**\n\nГрамматически: неправильно.  \nЕстественность: неестественно.\n\nПочему: здесь нужен субъект `someone`, затем `who is`. И ещё старая ошибка:\n\n**different from**, не `different then`.\n\nПравило простыми словами:\n\n> someone + who + is + adjective\n\nЕщё 3 примера:\n- I need someone who is experienced.\n- We need a developer who is available today.\n- She wants someone who is different from her.\n\n---\n\n3. `He will choose the crossword.`\n\nПо listening: **неправильно**.\n\nPete говорит, что он **was working on that crossword puzzle** — он разгадывал кроссворд, когда Anna пришла. citeturn103530view1\n\nOriginal: `He will choose the crossword.`\n\nCorrect: **He is working on a crossword puzzle.**\n\nГрамматически: твоя фраза сама по себе возможна, но передаёт другой смысл.  \nЕстественность: `choose the crossword` здесь не подходит.\n\nПочему: **work on something** = работать над чем-либо.\n\nПолезный chunk:\n\n**work on + noun**\n\n- I'm working on a new feature.\n- She's working on a report.\n- Pete is working on a crossword puzzle.\n\nВот это обязательно забираем в актив.\n\n---\n\n4. `10 a.m`\n\nПо listening: **полностью правильно**.\n\nТочнее: **tomorrow morning at 10 a.m.** citeturn103530view1\n\nМожно ответить:\n\n**His interview is at 10 a.m.**\n\nТут проблем нет.\n\n---\n\n5. `Is Pete the people person? / The best reason of proud about Pete last time`\n\nПо listening: **очень хорошо**. Ты фактически поймал оба вопроса интервью.\n\nMs. Weaver спрашивает:\n- является ли Pete **a people person**;\n- какой своей работой он **most proud of**. citeturn103530view1\n\nНо английский здесь развалился.\n\nOriginal: `Is Pete the people person?`\n\nCorrect: **She asks if Pete is a people person.**\n\nГрамматически: почти правильно как прямой вопрос, но артикль неправильный.\n\n**a people person** — устойчивое выражение: человек, который любит общаться и хорошо ладит с людьми.\n\nOriginal: `The best reason of proud about Pete last time`\n\nCorrect: **She asks what work Pete is most proud of.**\n\nГрамматически: неправильно.  \nЕстественность: неестественно.\n\nГлавный chunk:\n\n**be proud of something**\n\n- I'm proud of this project.\n- She's proud of her work.\n- What are you most proud of?\n\nНе `proud about`.\n\n---\n\n6. `He didn't meet people during two months.`\n\nПо listening: **смысл правильный**.\n\nPete говорит, что два месяца вообще ни с кем не разговаривал и называет их лучшими двумя месяцами своей жизни. citeturn103530view1\n\nOriginal: `He didn't meet people during two months.`\n\nCorrect: **He was happy because he didn't speak to anybody for two months.**\n\nГрамматически: твоя версия почти возможна.  \nЕстественность: немного меняет исходный смысл.\n\nПочему:\n\n`meet people` = встречаться/знакомиться с людьми.  \n`not speak to anybody` = ни с кем не разговаривать.\n\nИ для длительности:\n\n**for two months**, не `during two months`.\n\nСравни:\n\n- I worked there **for two months**. — сколько времени?\n- I met Alex **during the meeting**. — когда, в течение какого события?\n\nЭто тебе надо закрепить.\n\n---\n\n7. `grumpy - idk that is it / he is bad with people`\n\nПо listening: **полностью правильно**.\n\nPete прямо пересказывает: Ms. Weaver сказала, что он **grumpy** и **not good with people**. citeturn103530view2\n\n`grumpy` = **ворчливый, раздражительный, угрюмый**, особенно когда человек склонен постоянно быть недовольным.\n\nНапример:\n\n- He's grumpy in the morning.\n- My manager looks grumpy today.\n- Pete is grumpy and not good with people.\n\nOriginal: `he is bad with people`\n\nCorrect: **He isn't good with people.**\n\nГрамматически: твой вариант допустим.  \nЕстественность: **not good with people** здесь намного естественнее и совпадает с аудио.\n\n### Результат второго прослушивания\n\nПо содержанию примерно так:\n\n- №1 — 0.5/1\n- №2 — 1/1\n- №3 — 0/1\n- №4 — 1/1\n- №5 — 1/1\n- №6 — 1/1\n- №7 — 1/1\n\n**5.5–6 / 7 ≈ 80–85%.**\n\nТо есть после второго прослушивания твоя первоначальная оценка в `80%` уже вполне соответствует действительности.\n\nИ ещё важнее: это **VOA Level 2 / intermediate material**, пусть речь там и заметно медленнее естественной разговорной. Ты не просто угадываешь сюжет — ты уже вытаскиваешь конкретные детали вроде `10 a.m.`, `grumpy`, структуры интервью и причины, почему Pete понравились эти два месяца. citeturn103530view0\n\nТеперь Stage 3. Не надо снова слушать все четыре минуты.\n\nПрослушай ещё раз только проблемные места. **Теперь можно ставить на паузу и отматывать**, но transcript всё ещё не открывай.\n\nПопытайся записать максимально близко к тому, что реально слышишь:\n\n**A. Ms. Weaver about Anna**  \nНачинается примерно с:\n\n`Anna, you're good at ...`\n\nЗапиши следующие 1–2 предложения.\n\n**B. Pete and the crossword**  \nЗапиши фразу Pete, в которой есть `crossword puzzle`.\n\n**C. Interview — proud**  \nЗапиши вопрос Ms. Weaver, содержащий `proud`.\n\n**D. Pete's two months**  \nЗапиши предложение, начинающееся:\n\n`I didn't ...`\n\nи следующее за ним предложение.\n\nНе надо угадывать правильную грамматику. Здесь наоборот: **записывай то, что слышит ухо**, даже если получается странная хрень. После этого сравним фонетическое восприятие с реальным transcript."
+        }
+      ]
+    },
+    {
+      "id": "efe54a2c-ec8b-4b50-bcc9-f806a22a35b5",
+      "status": "completed",
+      "error": null,
+      "startedAt": 1788626453.123,
+      "completedAt": 1788626458.080818,
+      "durationMs": null,
+      "items": [
+        {
+          "type": "userMessage",
+          "id": "efe54a2c-ec8b-4b50-bcc9-f806a22a35b5",
+          "content": [
+            {
+              "type": "text",
+              "text": "Не надо снова слушать все четыре минуты.\n\nПрослушай ещё раз только проблемные места. **Теперь можно ставить на паузу и отматывать**, но transcript всё ещё не открывай.\n\nПопытайся записать максимально близко к тому, что реально слышишь:\n\n**A. Ms. Weaver about Anna**\n\nНачинается примерно с:\n\n`Anna, you're good at ...`\n\nЗапиши следующие 1–2 предложения.\n\n```\nat asking questing, So that i want to ask you and ghosting??\n\nAnna, you're good at asking questing. So that I want you go back hosting and..\n\nThat sounds great!\n\nYou're also a team player. So I want you team up with someone. That's sound's even better.\n\nWith someone who is different from you.\n\nthat's soynds...\n\n```\n\n**B. Pete and the crossword**\n\nЗапиши фразу Pete, в которой есть `crossword puzzle`.\n\n```\nAnna I was working on that crossword puzzle.\n\nSorry... forget the crossword Pete.\n\n```\n\n**C. Interview — proud**\n\nЗапиши вопрос Ms. Weaver, содержащий `proud`.\n\n```\nWhat work of your's you most proud at?\n\n```\n\n**D. Pete's two months**\n\nЗапиши предложение, начинающееся:\n\n`I didn't ...`\n\nи следующее за ним предложение.\n\n```\nI didn't the anybody entire time. It was the best to months of my life. Okey, I think I've heard enough\n\n```"
+            }
+          ]
+        },
+        {
+          "type": "agentMessage",
+          "id": "9e33332b-36a4-4388-b412-519e35f3ef49",
+          "text": "Вот это уже полезная часть занятия. Здесь мы видим не «понял/не понял сюжет», а конкретно, **где ухо ломается на connected speech**. И результат неплохой: B почти идеально, C очень близко, A ты восстановил почти весь смысл, D просел на одном участке.\n\n### A. Ms. Weaver about Anna\n\nТвой вариант:\n\n> `Anna, you're good at asking questing. So that I want you go back hosting and..`\n\nТы услышал каркас практически правильно.\n\n`questing` → **questions**.  \n`So that I want...` → там просто **So, I want...**  \n`go back hosting` → не хватает `to`: **go back to hosting and reporting**. citeturn422580view0\n\nЗдесь интересная ошибка — `questions`.\n\nТы знаешь слово `question`, но поток:\n\n**asking questions**\n\nне распознался как два знакомых слова. Это чистая listening-проблема, а не словарная.\n\nЕщё лучше следующая часть:\n\n> `You're also a team player. So I want you team up with someone.`\n\nТы поймал почти дословно. Только грамматически там:\n\n**I want you to team up with someone.**\n\nИ дальше:\n\n> `With someone who is different from you.`\n\nСмысл полностью пойман. В оригинале есть усиление `very`. citeturn422580view0\n\nИтого A: примерно **85–90%**.\n\n---\n\n### B. Crossword\n\n> `Anna I was working on that crossword puzzle.`\n\nЭто ты услышал **идеально**. citeturn422580view0\n\nВторая:\n\n> `Sorry... forget the crossword Pete.`\n\nСмысл правильный, но реально Anna говорит вариант с **forget about the crossword puzzle**. citeturn422580view0\n\nВот хороший chunk:\n\n**forget about + something**\n\n- Forget about the bug for now.\n- Forget about work tonight.\n- I forgot about the meeting.\n\nА первая фраза даёт второй важный:\n\n**work on + something**\n\n- I'm working on a Laravel project.\n- We're working on the deployment.\n- Pete was working on a crossword puzzle.\n\nB: **95%+**.\n\n---\n\n### C. Proud\n\nТвой вариант:\n\n> `What work of your's you most proud at?`\n\nЭто очень хороший результат именно для диктанта. Ты услышал почти все смысловые слова.\n\nПравильный каркас:\n\n**What work of yours are you most proud of?** citeturn422580view0\n\nЗдесь сразу две грамматические вещи.\n\nOriginal: `What work of your's you most proud at?`\n\nCorrect: **What work of yours are you most proud of?**\n\nГрамматически: неправильно.\n\nЕстественность: структура понятна, но так не говорят.\n\nПочему:\n\n1. Вопрос с `to be`:\n   **are you proud**, а не `you proud`.\n\n2. Устойчиво:\n   **proud of**, не `proud at`.\n\n3. `yours` пишется **без апострофа**.\n\nПравило простыми словами:\n\n**be proud of something**\n\n- I'm proud of my progress.\n- She's proud of her project.\n- What are you proud of?\n\nПричём в listening ты **услышал `proud`**, то есть основную информацию достал. Не восстановилась именно грамматическая оболочка `are you ... of`.\n\nC: по слуху где-то **80–85%**.\n\n---\n\n### D. Вот здесь реально есть что тренировать\n\nТы услышал:\n\n> `I didn't the anybody entire time. It was the best to months of my life.`\n\nПервое предложение содержит пропущенный кусок **speak to**:\n\n**I didn't speak to anybody the entire time.**\n\nВторое ты фактически услышал правильно: это **the best two months of my life**. citeturn422580view0\n\n`to months` у тебя — это не проблема. `two` и `to` звучат одинаково: /tuː/. Только контекст говорит, что здесь число:\n\n**two months**.\n\nА вот `speak to anybody` важнее.\n\nВероятно, ухо услышало примерно поток:\n\n`didn't-speak-tə-anybody`\n\nи границы слов развалились. В естественной речи `to` очень часто ослабляется до /tə/, поэтому:\n\n**speak to anybody**\n\nзвучит гораздо менее отчётливо, чем если произносить каждое слово отдельно.\n\nЭто как раз тот навык, ради которого мы делаем третий проход.\n\nD: примерно **65–70%**, но почти вся потеря сосредоточена в одном chunk.\n\n---\n\nВ сумме твой Stage 3 выглядит хорошо:\n\n**A — 85–90%**  \n**B — 95%+**  \n**C — 80–85%**  \n**D — 65–70%**\n\nИ я бы сейчас уже не спорил с твоими первоначальными **80% comprehension**. Для этого материала примерно так и есть.\n\nПричём ситуация довольно чёткая:\n\n**Ты слышишь content words хорошо:**\n`questions`, `team player`, `crossword puzzle`, `proud`, `anybody`, `months`, `grumpy`.\n\nНо хуже слышишь **маленькие грамматические слова и связки**:\n\n`to`, `are`, `of`, `about`, `speak to`.\n\nЭто очень типичный переход: начинающий слушает каждое слово, а ты уже ловишь смысловые опорные точки, но служебные куски речи ещё периодически растворяются.\n\n### Мини-тренировка — 5 минут\n\nТеперь transcript можно закрыть. Произнеси вслух по 3 раза, не медленно по словам, а одним куском:\n\n1. **I'm good at asking questions.**\n2. **I want you to team up with someone.**\n3. **I was working on that project.**\n4. **What are you most proud of?**\n5. **I didn't speak to anybody for two days.**\n\nА затем **без подсказки** напиши 5 своих предложений по этим пяти шаблонам. Контекст можешь брать работа / жизнь / программирование.\n\nНе копируй Pete и Anna. Например для №1 нужно рассказать, **в чём именно ты хорош**, но формулировку собирай сам."
+        }
+      ]
+    },
+    {
+      "id": "182e7394-506a-4c3d-a558-b13e716ed367",
+      "status": "completed",
+      "error": null,
+      "startedAt": 1788626700.104,
+      "completedAt": 1788626700.45813,
+      "durationMs": null,
+      "items": [
+        {
+          "type": "userMessage",
+          "id": "182e7394-506a-4c3d-a558-b13e716ed367",
+          "content": [
+            {
+              "type": "text",
+              "text": "Я услышал там two months просто неправильно записал, и speak тоже. пропустил при записи\n\nа в первом я ошибке вместо questions так написал. скорректируй %"
+            }
+          ]
+        },
+        {
+          "type": "agentMessage",
+          "id": "84bb0634-597c-426d-8522-9414c37c52cd",
+          "text": "Тогда проценты надо поднять, потому что я часть ошибок ошибочно записал в listening, хотя это были просто ошибки записи.\n\nС учётом твоего уточнения:\n\n- A — **95%**\n  - `questions` ты услышал правильно, просто записал с ошибкой.\n  - Остальная потеря — в основном служебные слова и кусок `go back to hosting and reporting`.\n\n- B — **95–100%**\n  - Практически всё поймано.\n\n- C — **85–90%**\n  - Смысл и почти все ключевые слова услышаны.\n  - Потерялась в основном грамматическая оболочка: `are you`, `of`.\n\n- D — **90–95%**\n  - Если `speak` и `two months` ты действительно услышал, а просто не перенёс корректно в текст, то это уже не listening-ошибка.\n  - Реально потеря минимальная.\n\nИтого Stage 3 я бы скорректировал до примерно **92–94% по слуховому распознаванию**.\n\nА общий comprehension всего аудио после двух-трёх проходов — примерно **85–90%**.\n\nТо есть картина теперь такая: твой listening на этом VOA-материале уже заметно сильнее твоего written output. Ты понимаешь больше, чем можешь чисто записать или пересказать по-английски. Это важное различие."
+        }
+      ]
+    },
+    {
+      "id": "2cd23530-f8cd-45de-9546-60019e0e63db",
+      "status": "completed",
+      "error": null,
+      "startedAt": 1788626747.012,
+      "completedAt": 1788626751.344475,
+      "durationMs": null,
+      "items": [
+        {
+          "type": "userMessage",
+          "id": "2cd23530-f8cd-45de-9546-60019e0e63db",
+          "content": [
+            {
+              "type": "text",
+              "text": "Ну там сабы были, я конечно старался на них не смотреть, но что-то мог увидеть. потом скрыл. Это точно B1 текст?"
+            }
+          ]
+        },
+        {
+          "type": "agentMessage",
+          "id": "c4ae0aa3-fd34-428d-9fea-c180a6374a3f",
+          "text": "Нет, точнее будет сказать так: это **не официально маркированный CEFR B1 материал**.\n\nVOA сама называет курс **Let’s Learn English – Level 2** курсом для **intermediate learners**. citeturn433429search0turn433429search1 Но на странице курса я не вижу привязки вида «Level 2 = B1 по CEFR». Поэтому мой предыдущий ярлык «B1» был слишком уверенным.\n\nПо фактической сложности именно этого диалога я бы оценил его примерно как **A2+ / ранний B1**:\n- грамматика в основном простая;\n- предложения короткие;\n- речь довольно чёткая и учебная;\n- лексика уже не совсем A2: `team player`, `people person`, `grumpy`, `be proud of`, phrasal verbs вроде `team up`, `find out`, `throw away`; сам урок специально тренирует такие two-word verbs. citeturn433429search3\n- при этом это сильно проще обычного нативного B1 listening из IELTS-подобной или бытовой среды.\n\nТак что твои 80–90% здесь **не означают автоматически, что у тебя B1 listening**. Они означают, что учебный intermediate/A2+–B1 диалог такого типа ты уже понимаешь довольно уверенно.\n\nИ да, субтитры немного загрязняют результат. Даже периферийно увиденное слово может резко помочь сегментации речи: услышал кашу → взгляд зацепил `crossword` → мозг моментально разобрал весь chunk. Поэтому я бы не считал сегодняшние 92–94% «чистым listening score».\n\nНо и обесценивать результат не надо. На первом прослушивании ты:\n- понял сюжет;\n- вытащил `grumpy`;\n- понял, что Pete плох с людьми;\n- запомнил историю с книгой;\n- понял финал;\n- потом без transcript довольно хорошо восстановил chunks.\n\nЯ бы записал сегодняшний результат так:\n\n**VOA Level 2, Lesson 2 — учебный intermediate, ориентировочно A2+/B1-.**\n**Чистое понимание сюжета: ~80%.**\n**После повторного прослушивания: ~85–90%.**\n**Детальный диктант: высокий, но частично скомпрометирован видимыми субтитрами.**\n\nСледующий listening лучше взять **без встроенных субтитров либо закрыть их до первого запуска**. Тогда получим уже гораздо более честную точку измерения."
+        }
+      ]
+    },
+    {
+      "id": "decfe713-2109-46d6-9418-98f36695180c",
+      "status": "completed",
+      "error": null,
+      "startedAt": 1788626940.691,
+      "completedAt": 1788626941.031741,
+      "durationMs": null,
+      "items": [
+        {
+          "type": "userMessage",
+          "id": "decfe713-2109-46d6-9418-98f36695180c",
+          "content": [
+            {
+              "type": "text",
+              "text": "Нет, это все таки не B1 я думаю, Claude оценил в A2+ со вставками B1"
+            }
+          ]
+        },
+        {
+          "type": "agentMessage",
+          "id": "726e8292-a61b-4ece-93d9-2f881a7e2eaf",
+          "text": "Да, **A2+ со вставками B1** здесь точнее, чем просто «B1».\n\nЕсли разложить по компонентам, получается примерно так:\n\n- **Грамматика:** в основном A2. Простые времена, `to be`, обычные вопросы, короткие конструкции.\n- **Синтаксис:** A2/A2+. Предложения короткие, почти без сложной вложенности.\n- **Темп речи:** учебный, заметно медленнее естественной речи — это тоже сильно снижает фактическую сложность.\n- **Сюжет:** очень прозрачный, контекст помогает угадывать.\n- **Лексика/chunks:** местами уже B1: `team player`, `people person`, `be proud of`, `team up with`, `grumpy`, `work on`, плюс фразовые глаголы.\n- **Connected speech:** есть, но довольно мягкий.\n\nПоэтому я бы теперь записал уровень материала как:\n\n**A2+ overall, with some B1 vocabulary and chunks.**\n\nИ это важная поправка для оценки твоего listening. Твои условные 80–90% на этом аудио означают не «B1 listening готов», а скорее:\n\n**A2+ listening у тебя уже довольно уверенный, и ты начинаешь цеплять отдельные B1-элементы.**\n\nЭто хорошо совпадает с общей картиной твоего английского: пассивное понимание у тебя уже выше, чем активная грамматика. На настоящем B1 listening сложность резко подрастёт за счёт темпа, меньшей предсказуемости, более длинных реплик и менее учебного произношения.\n\nСледующий listening я бы уже специально взял **чистый B1**, без субтитров и без настолько медленной речи. Тогда увидим реальную границу."
+        }
+      ]
+    },
+    {
+      "id": "8594ddf5-9009-4855-adcc-8b18c6620e2d",
+      "status": "completed",
+      "error": null,
+      "startedAt": 1788626992.554,
+      "completedAt": 1788627007.486162,
+      "durationMs": null,
+      "items": [
+        {
+          "type": "userMessage",
+          "id": "8594ddf5-9009-4855-adcc-8b18c6620e2d",
+          "content": [
+            {
+              "type": "text",
+              "text": "Ну можно взять как раз. Предложи что-то"
+            }
+          ]
+        },
+        {
+          "type": "agentMessage",
+          "id": "27927b5d-4695-4dff-a9da-b964f402bd3b",
+          "text": "Берём **British Council — “A phone call from a customer”**. Это уже не моя оценка уровня: сам British Council помечает материал как **B1 Intermediate**. citeturn738558view0\n\n[British Council — A phone call from a customer](https://learnenglish.britishcouncil.org/free-resources/listening/b1/phone-call-customer?utm_source=chatgpt.com)\n\nДля тебя он подходит лучше предыдущего:\n- рабочая тема: клиент, заказ, invoice, payment terms;\n- обычный деловой диалог;\n- меньше учебной «театральности», чем у VOA;\n- есть конкретные детали, которые надо реально услышать;\n- transcript находится ниже, поэтому его можно просто не открывать. citeturn738558view0\n\nСейчас делаем **чистый первый замер**, поэтому preparation на сайте тоже пока пропускаем — там заранее дают лексику, а нам сейчас интересно, что ты вытащишь без помощи.\n\n### Stage 1 — B1 Gist\n\nПрослушай аудио **один раз целиком**.\n\nНе ставь паузу, не перематывай, transcript не читай, упражнения на сайте пока не делай.\n\nПосле этого ответь по-английски:\n\n**1. Why does Andrea call Junko?**\n\n**2. What problem does Andrea's company have?**\n\n**3. What does Andrea ask Junko to do?**\n\n**4. Why isn't Junko immediately sure she can agree?**\n\n**5. Does Junko agree in the end? Why?**\n\nИ отдельно:\n\n**Understanding: __%**\n\nЗдесь уже не пытайся доказать себе B1. Если будет 55–65% — это нормальный и гораздо более полезный результат, чем 90% на слишком лёгком материале."
+        }
+      ]
+    },
+    {
+      "id": "ae6738a9-299c-4a25-acea-3118ca08685e",
+      "status": "completed",
+      "error": null,
+      "startedAt": 1788627057.899,
+      "completedAt": 1788627072.182401,
+      "durationMs": null,
+      "items": [
+        {
+          "type": "userMessage",
+          "id": "ae6738a9-299c-4a25-acea-3118ca08685e",
+          "content": [
+            {
+              "type": "text",
+              "text": "Это было. Я думаю нужен банк прочитанных и прослушанных записей, чтобы не повторяться."
+            }
+          ]
+        },
+        {
+          "type": "agentMessage",
+          "id": "eeb73b20-660e-4f54-a6cd-74ae65b2dc9e",
+          "text": "Структуру лучше сделать простой, чтобы банк реально использовался, а не превратился в ещё один мёртвый документ.\n\n```md\n# Materials Bank\n\n## Listening\n\n| Date | Source | Title | Level | Result | Notes |\n|---|---|---|---|---|---|\n| 05.09.2026 | VOA Learning English | The Interview | A2+ / some B1 chunks | ~80% first pass, ~85–90% after repeats | subtitles partly visible; good detail recognition |\n| earlier | British Council | A phone call from a customer | B1 | completed | do not reuse |\n\n## Reading\n\n| Date | Source | Title | Level | Result | Notes |\n|---|---|---|---|---|---|\n| ... | ... | ... | ... | ... | ... |\n```\n\nЯ бы ещё ввёл три статуса:\n\n- `Completed` — больше не использовать как новое задание.\n- `Repeat later` — можно вернуть через несколько месяцев для проверки прогресса.\n- `Abandoned` — начали, но не закончили; можно продолжить, а не начинать заново.\n\nИ главное правило для меня дальше: **перед предложением конкретного listening/reading сначала проверять банк, а не просто искать подходящий по уровню материал**.\n\nПричём хранить стоит не только название, но и результат первого прохода. Тогда через 2–3 месяца можно взять старый материал повторно уже как контрольный тест и сравнить, например, `60% → 90%`.\n\nПо истории проекта у нас уже накопилось несколько материалов. Можно отдельно собрать **полный начальный Materials Bank из предыдущих занятий**, а дальше просто дописывать туда каждый новый текст и аудио."
+        }
+      ]
+    },
+    {
+      "id": "b3e6848b-ac6b-4252-8ccc-5e326c9d403b",
+      "status": "completed",
+      "error": null,
+      "startedAt": 1788627195.395,
+      "completedAt": 1788627442.714302,
+      "durationMs": null,
+      "items": [
+        {
+          "type": "userMessage",
+          "id": "b3e6848b-ac6b-4252-8ccc-5e326c9d403b",
+          "content": [
+            {
+              "type": "text",
+              "text": "Дейти. Следующее задание. Ты должен проанализировать записи, касаемо, ну, в папках Listening и в папках Reading в GitHub, на английском репозитории, и сделать следующее. Ты должен взять оттуда источники, source, либо же их сознательно находить по текстовому содержанию и записать источники в список в виде двух отдельных файлов MD формата. Назови их там ReadingBank и, не знаю, там ListeningBank. Пускай эти папки находятся внутри одноимённых... нет, пускай эти файлы находятся внутри одноимённых папок, и сформируй условие для себя в README файле, что ты не будешь... ну, типа ты будешь перед тем как давать какое-то задание, анализировать это. Хотя ты можешь взять текущее условие проекта, текущее требование английского проекта и туда это добавить. Если это возможно, окей, круто. Если нет, я отдельно это добавлю сейчас."
+            }
+          ]
+        },
+        {
+          "type": "agentMessage",
+          "id": "c0805d7e-66d3-498a-8fb2-6cae5309d32b",
+          "text": "Готово.\n\nСоздал:\n\n- `English Roadmap Tree/Tests/Listening/ListeningBank.md` — 7 материалов, включая сегодняшний VOA **The Interview**. \n- `English Roadmap Tree/Tests/Reading/ReadingBank.md` — 6 материалов. \n\nПри восстановлении истории не стал выдумывать источники:\n- `11.08` восстановлен по содержанию как British Council **Changing plans**, A2. citeturn149120search3\n- `18.08` — **A phone call from a customer**, B1.\n- `23.07 Reading` внешнего источника не содержит, поэтому записан как внутренний текст репозитория.\n\nВ `README.md` добавил обязательное правило: перед любым новым Reading/Listening сначала читать соответствующий Bank; уже использованный материал нельзя выдавать как новый; повтор — только намеренно как `review/retest/progress check`; новые материалы после назначения/прохождения добавляются в банк. \n\nТо есть сегодняшний косяк с повторным предложением `A phone call from a customer` теперь системно закрыт.\n\nВ сами custom instructions проекта я через доступные инструменты залезть не могу. Но правило уже находится в README репозитория и сохранено у меня как постоянное требование для этого английского проекта."
+        }
+      ]
+    }
+  ],
+  "sourcePages": 2
+}

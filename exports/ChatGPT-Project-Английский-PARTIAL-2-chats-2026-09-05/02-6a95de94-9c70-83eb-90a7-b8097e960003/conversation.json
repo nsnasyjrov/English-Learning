@@ -1,0 +1,300 @@
+{
+  "exportSchemaVersion": 1,
+  "project": {
+    "id": "g-p-6a180a1822ac81919fe95781adb5ad96",
+    "name": "Английский"
+  },
+  "exportedAt": "2026-09-05T17:26:57.976Z",
+  "thread": {
+    "id": "6a95de94-9c70-83eb-90a7-b8097e960003",
+    "kind": "chatgpt",
+    "title": "Смешанный Sentence Core урок",
+    "preview": ":::writing{id=\"48317\" variant=\"document\"}\nНа сегодня всё.\n\nИтог занятия: Sentence Core держится заметно стабильнее. `to be` vs смысловой глагол, `do/does/did`, вопросы, отрицания и `he/she/it + -s` в контролируемых заданиях уже почти без ошибок.\n\nЧто ещё не автоматизировано до конца:\n\n- в свободном тексте иногда проскакивает `tests passes` вместо `tests pass`;\n- есть кальки с русского: `in work`, `return with answer`, `open-base ask`;\n- слабее грамматики сейчас уже выглядят chunks, предлоги и естественные рабочие формулировки.\n\nТо есть базовый Sentence Core уже не выглядит главным узким местом. Следующие занятия должны не гонять бесконечно `does/is`, а заставлять использовать эту базу в более свободной сборке, где она и должна закрепиться.\n:::",
+    "status": {
+      "type": "idle"
+    },
+    "cwd": null,
+    "createdAt": 1788206769.445001,
+    "updatedAt": 1788211102.107538
+  },
+  "attachments": [],
+  "order": "oldest_first",
+  "turns": [
+    {
+      "id": "3dfd0726-4465-4c5f-84f3-4f66b1253d85",
+      "status": "completed",
+      "error": null,
+      "startedAt": 1788206768.903,
+      "completedAt": 1788206769.331777,
+      "durationMs": null,
+      "items": [
+        {
+          "type": "userMessage",
+          "id": "3dfd0726-4465-4c5f-84f3-4f66b1253d85",
+          "content": [
+            {
+              "type": "text",
+              "text": "Новая неделя, новое занятие.\n\n**Grammar + Sentence Building.** Смешанный Sentence Core: `to be` vs смысловой глагол, `do/does/did`, `he/she/it + -s`, вопросы и отрицания. Future clauses только как часть контекста, не отдельная тема. В конце 10 мин свободной сборки."
+            }
+          ]
+        },
+        {
+          "type": "agentMessage",
+          "id": "d3cd3717-3ad7-47d7-9e9c-f5735dfe2ecd",
+          "text": "Сегодня делаем именно смешанный Sentence Core, без изучения нового времени. Цель занятия — чтобы ты перестал каждый раз отдельно вспоминать `am/is/are`, `do/does/did` и `-s`, а сначала определял тип английского предложения.\n\nПлан на ~60 минут: 10 мин диагностика → 15 мин вопросы/отрицания → 15 мин Sentence Building → 10 мин смешанный рабочий контекст → 10 мин свободная сборка.\n\nГлавный алгоритм сегодня:\n\n1. Сначала найди сказуемое.\n   - `be` → `am/is/are/was/were`\n   - действие → `work / need / know / use / finish...`\n2. Если уже есть `be`, `do/does/did` не нужны:\n   - `Alex is busy.`\n   - `Is Alex busy?`\n   - `Alex isn't busy.`\n3. Если есть обычный глагол, для вопроса/отрицания нужен помощник:\n   - `Alex works remotely.`\n   - `Does Alex work remotely?`\n   - `Alex doesn't work remotely.`\n4. `he/she/it + -s` работает только в утвердительном Present Simple:\n   - `Maria works.`\n   - `Does Maria work?` — не `works`\n5. После `does/did` всегда базовая форма:\n   - `Does he have...?`\n   - `Did he finish...?`\n   - не `does he has`, не `did he finished`.\n\nЭто ровно тот тип базовых упражнений, вокруг которого строятся A1–A2 grammar tasks в LearnEnglish: форма глагола, вопросы, отрицания и сборка предложения. fileciteturn0file0\n\nНачинаем с диагностики. Не переводишь каждое предложение целиком. Сначала мысленно решаешь: **BE или VERB → время → subject → нужен ли auxiliary**.\n\n### Этап 1 — Mixed Core, 10 минут\n\nЗаполни пропуски. Пиши целое предложение.\n\n1. Alex ___ responsible for this module.\n\n2. Maria ___ not work remotely.\n\n3. ___ your team use GitLab?\n\n4. Why ___ the server unavailable?\n\n5. My colleague usually ___ the deployment process.  \n   `(check)`\n\n6. ___ Alex have access to the production server?\n\n7. The developers ___ not ready for the deployment.\n\n8. Why ___ Maria leave the office early yesterday?\n\n9. Alex ___ the problem yesterday.  \n   `(solve)`\n\n10. The administrator ___ not approve the operation yesterday.\n\n11. Where ___ your project manager now?\n\n12. When the administrator gives me access, I ___ start testing.  \n   Здесь Future Clause только как контекст — главное не ошибиться в части с `when`.\n\nДополнительно для №1–11 рядом напиши только одно:\n\n`BE` или `VERB`\n\nНапример:\n\n> Alex is responsible for this module. — BE\n\nНе подсматривай правило после каждого пункта. Сделай все 12 подряд: здесь важнее увидеть, **что у тебя уже автоматизировано, а где ты всё ещё выбираешь конструкцию вручную**."
+        }
+      ]
+    },
+    {
+      "id": "ad75b724-a3c2-4e7e-928e-278478578fc7",
+      "status": "completed",
+      "error": null,
+      "startedAt": 1788208453.722,
+      "completedAt": 1788208453.797596,
+      "durationMs": null,
+      "items": [
+        {
+          "type": "userMessage",
+          "id": "ad75b724-a3c2-4e7e-928e-278478578fc7",
+          "content": [
+            {
+              "type": "text",
+              "text": "1. Alex is responsible for this module.\n2. Maria don't work remotely\n3. Do your team use Gitlab?\n4. Why is the server unavailable?\n5. My collegue usually cheks the deployment proccess\n6. Do Alex have access to the production server?\n7. The developers aren't ready for the deployment\n8. Why did Maria leave the office early yesterday?\n9. Alex solved the problem yesterday.\n10. The administrator didn't approve the operation yesterday.\n11. Where is your project manager now?\n12. I will start testing\n13."
+            }
+          ]
+        },
+        {
+          "type": "agentMessage",
+          "id": "b4e99625-30b1-4379-9cf6-854d060922a0",
+          "text": "Результат хороший по каркасу, но видно конкретное слабое место: **`do` vs `does` при существительном в 3-м лице единственного числа**. Именно там у тебя две одинаковые ошибки подряд: `Maria`, `Alex`. Плюс несколько орфографических ошибок, которые к грамматике не относятся.\n\n1.  \nOriginal: `Alex is responsible for this module.`  \nCorrect: `Alex is responsible for this module.`\n\nГрамматически: правильно.  \nЕстественность: естественно.  \nПочему: `responsible` — прилагательное, поэтому нужен `to be`: `Alex is responsible`.\n\n2.  \nOriginal: `Maria don't work remotely.`  \nCorrect: `Maria doesn't work remotely.`\n\nГрамматически: неправильно.  \nЕстественность: после исправления естественно.\n\nПочему: `Maria = she`, значит в Present Simple отрицание строится через `doesn't`.\n\nПравило простыми словами:  \n`I/you/we/they → don't`  \n`he/she/it → doesn't`\n\nИ после `doesn't` глагол остаётся обычным:\n\n`doesn't work`, не `doesn't works`.\n\nЕщё 3 похожих примера:\n- `Alex doesn't use Docker.`\n- `My manager doesn't work remotely.`\n- `The server doesn't respond.`\n\n3.  \nOriginal: `Do your team use Gitlab?`  \nCorrect: `Does your team use GitLab?`\n\nГрамматически: для нашего упражнения неправильно.\n\nПочему: `the team` здесь рассматриваем как одну команду → `it` → `does`.\n\n`Does your team use GitLab?`\n\nНе путай количество людей внутри команды и грамматическое число слова `team`.\n\n4.  \n`Why is the server unavailable?` — правильно.\n\nЭто `BE`: `the server is unavailable` → `Why is the server unavailable?`\n\n5.  \nOriginal: `My collegue usually cheks the deployment proccess`  \nCorrect: `My colleague usually checks the deployment process.`\n\nГрамматически: каркас правильный.  \nОрфография:\n- `colleague`\n- `checks`\n- `process`\n\nГлавное здесь ты сделал правильно:\n\n`my colleague = he/she → checks`\n\nВот это как раз `he/she/it + -s`.\n\n6.  \nOriginal: `Do Alex have access to the production server?`  \nCorrect: `Does Alex have access to the production server?`\n\nГрамматически: неправильно.\n\nПричина ровно та же, что в №2:\n\n`Alex = he → does`\n\nПричём:\n\n`Does Alex have...?`\n\nа не:\n\n`Does Alex has...?`\n\nПотому что `-s` уже фактически находится в `does`.\n\n7.  \n`The developers aren't ready for the deployment.` — правильно.\n\n`BE`, потому что `ready` — состояние/прилагательное.\n\n8.  \n`Why did Maria leave the office early yesterday?` — правильно.\n\nОсобенно важно: ты правильно сделал:\n\n`did + leave`\n\nа не `did + left`.\n\n9.  \n`Alex solved the problem yesterday.` — правильно.\n\nУтвердительный Past Simple → `solved`.\n\n10.  \n`The administrator didn't approve the operation yesterday.` — правильно.\n\nИ снова правильная механика:\n\n`didn't + approve`\n\nне `didn't approved`.\n\n11.  \n`Where is your project manager now?` — правильно.\n\n`BE`.\n\n12. Ты написал только:\n\n`I will start testing.`\n\nСамо по себе предложение правильное, но задача была сохранить весь контекст:\n\n`When the administrator gives me access, I will start testing.`\n\nКлючевой момент:\n\n`When + Present Simple → will + verb`\n\nТо есть:\n\n`When the administrator gives...`\n\nа не:\n\n`When the administrator will give...`\n\nИ это уже у тебя раньше было проблемным местом, поэтому его продолжаем держать в фоне.\n\nИтого по Sentence Core:\n\n- `to be vs verb` — уверенно;\n- Past Simple + `did/didn't` — уверенно;\n- `he/she/it + -s` в утверждении — понимаешь;\n- `does + base verb` — пока не автоматизировано;\n- `do/does` при существительных типа `Maria / Alex / the team` — сейчас основная цель.\n\nОрфографию `colleague / checks / process` отдельно не смешиваем с грамматикой.\n\nТеперь Этап 2. Здесь специально давлю на одно слабое место. Не объясняй правила — просто собери предложения.\n\n1. Maria ___ not need access to the database.\n\n2. ___ your manager work with this project?\n\n3. Why ___ Alex check the logs every morning?\n\n4. The administrator ___ not know about this problem.\n\n5. ___ the server need to restart every day?\n\n6. My colleague usually ___ the report before lunch.  \n`(write)`\n\n7. Alex ___ not responsible for this deployment.\n\n8. Why ___ your team late today?\n\nДля каждого дай полное предложение и рядом `BE` или `VERB`."
+        }
+      ]
+    },
+    {
+      "id": "73380468-6596-4eb1-afd4-a8b88e6a5f3d",
+      "status": "completed",
+      "error": null,
+      "startedAt": 1788208573.062,
+      "completedAt": 1788208573.20954,
+      "durationMs": null,
+      "items": [
+        {
+          "type": "userMessage",
+          "id": "73380468-6596-4eb1-afd4-a8b88e6a5f3d",
+          "content": [
+            {
+              "type": "text",
+              "text": "1) doesn't \n2) is \n3) does\n4) doesn't\n5) Does\n6)writes\n7) is \n8) does"
+            }
+          ]
+        },
+        {
+          "type": "agentMessage",
+          "id": "5e6c30ce-762c-4870-ac63-b52797644de8",
+          "text": "Здесь уже лучше видно механику. Из 8 пунктов две ошибки — и обе как раз про выбор между `BE` и смысловым глаголом.\n\n1) `doesn't` — правильно.\n\nCorrect: `Maria doesn't need access to the database.`  \nТип: VERB\n\nПочему: `need` — смысловой глагол. `Maria = she` → `doesn't + need`.\n\n2) `is` — неправильно.\n\nCorrect: `Does your manager work with this project?`  \nТип: VERB\n\nПочему: ключевое слово — `work`. Это действие, не состояние через `to be`.\n\nНельзя:\n\n`Is your manager work...?`\n\nПотому что получается два сказуемых подряд: `is + work`.\n\nПравило простыми словами:\n\n`Is your manager busy?` → BE  \n`Does your manager work here?` → VERB\n\n3) `does` — правильно.\n\nCorrect: `Why does Alex check the logs every morning?`  \nТип: VERB\n\nОбрати внимание: `does + check`, не `checks`.\n\n4) `doesn't` — правильно.\n\nCorrect: `The administrator doesn't know about this problem.`  \nТип: VERB\n\n5) `Does` — правильно.\n\nCorrect: `Does the server need to restart every day?`  \nТип: VERB\n\n6) `writes` — правильно.\n\nCorrect: `My colleague usually writes the report before lunch.`  \nТип: VERB\n\nТут `my colleague = he/she`, поэтому в утвердительном Present Simple:\n\n`writes`\n\n7) `is` — правильно.\n\nCorrect: `Alex is not responsible for this deployment.`  \nТип: BE\n\n`responsible` — прилагательное, значит `to be`.\n\n8) `does` — неправильно.\n\nCorrect: `Why is your team late today?`  \nТип: BE\n\nПочему: `late` — прилагательное.\n\n`The team is late.`  \n→ `Why is the team late?`\n\nНе нужен `does`, потому что здесь вообще нет смыслового глагола.\n\nИтого: 6/8.\n\nСейчас проблема уже не столько в `does`, сколько в более базовом решении:\n\n`Это состояние/описание или действие?`\n\nСравни пары:\n\n- `Alex is responsible.` — состояние\n- `Alex works remotely.` — действие\n- `The server is unavailable.` — состояние\n- `The server doesn't work.` — действие\n- `Maria is late.` — состояние\n- `Maria doesn't arrive late.` — действие\n\nСледующий блок — 10 предложений. Теперь обязательно пиши целое предложение, потому что отдельный `does/is` не тренирует sentence building нормально.\n\n1. Why ___ your colleague always ___ late? `(arrive)`\n2. The server ___ not available right now.\n3. ___ Alex usually check the logs before deployment?\n4. Maria ___ responsible for testing this module.\n5. Why ___ the administrator not know about this issue?\n6. My manager usually ___ me after the meeting. `(call)`\n7. ___ your developers ready to deploy the update?\n8. Alex ___ not use this configuration anymore.\n9. Why ___ this service so slow today?\n10. The application usually ___ correctly after a restart. `(work)`\n\nПиши без `BE/VERB` пометок. Я уже буду смотреть именно на готовый английский каркас."
+        }
+      ]
+    },
+    {
+      "id": "aaaa9891-755d-4675-ae8f-0ce76526cb18",
+      "status": "completed",
+      "error": null,
+      "startedAt": 1788208971.871,
+      "completedAt": 1788208972.197915,
+      "durationMs": null,
+      "items": [
+        {
+          "type": "userMessage",
+          "id": "aaaa9891-755d-4675-ae8f-0ce76526cb18",
+          "content": [
+            {
+              "type": "text",
+              "text": "1) Why does your colleague always arrive late?\n\n2) The server is not available now|\n\n3) Does Alex usually check the logs before deployment?\n\n4)Maria is responsible for testing this module\n\n5) Why doesn't the administrator know about this issue\n\n6) My manager usually calls me after the meeting\n\n7)Are your developers ready to deploy the update?\n\n8) Alex doesn't use this configuration anymore.\n\n9) Why is this service so slow today?\n\n10) works"
+            }
+          ]
+        },
+        {
+          "type": "agentMessage",
+          "id": "0b8c3905-d3c7-4e54-973b-78a8e647515b",
+          "text": "Здесь уже заметно лучше: каркас почти везде выбран правильно. Ошибка фактически одна — №10 ты не собрал целиком.\n\n1.\n\nOriginal: `Why does your colleague always arrive late?`\n\nCorrect: `Why does your colleague always arrive late?`\n\nГрамматически: правильно.  \nЕстественность: естественно.\n\nПочему: `colleague = he/she` → `does`, после него базовая форма `arrive`.\n\n2.\n\nOriginal: `The server is not available now.`\n\nCorrect: `The server is not available right now.`\n\nГрамматически: правильно.  \nЕстественность: оба варианта естественны.\n\nПочему: `available` — прилагательное → нужен `to be`.\n\n3.\n\nOriginal: `Does Alex usually check the logs before deployment?`\n\nCorrect: `Does Alex usually check the logs before deployment?`\n\nГрамматически: правильно.\n\nОчень важный момент: `does + check`, не `checks`.\n\n4.\n\nOriginal: `Maria is responsible for testing this module.`\n\nCorrect: `Maria is responsible for testing this module.`\n\nГрамматически: правильно.  \nЕстественность: естественно.\n\n`responsible` → состояние/характеристика → `is`.\n\n5.\n\nOriginal: `Why doesn't the administrator know about this issue?`\n\nCorrect: `Why doesn't the administrator know about this issue?`\n\nГрамматически: правильно.\n\nЗдесь уже автоматом сделал нужное:\n`administrator = he/she → doesn't + know`.\n\n6.\n\nOriginal: `My manager usually calls me after the meeting.`\n\nCorrect: `My manager usually calls me after the meeting.`\n\nГрамматически: правильно.\n\nУтверждение + `my manager = he/she` → `calls`.\n\n7.\n\nOriginal: `Are your developers ready to deploy the update?`\n\nCorrect: `Are your developers ready to deploy the update?`\n\nГрамматически: правильно.\n\n`ready` → прилагательное → `are`.\n\n8.\n\nOriginal: `Alex doesn't use this configuration anymore.`\n\nCorrect: `Alex doesn't use this configuration anymore.`\n\nГрамматически: правильно.\n\n9.\n\nOriginal: `Why is this service so slow today?`\n\nCorrect: `Why is this service so slow today?`\n\nГрамматически: правильно.\n\n`slow` — прилагательное → `is`.\n\n10.\n\nOriginal: `works`\n\nCorrect: `The application usually works correctly after a restart.`\n\nГрамматически: ответ неполный.\n\nСам выбор формы `works` правильный:\n\n`the application = it → works`.\n\nТо есть по механике у тебя здесь тоже всё нормально.\n\nИтого: по выбору конструкции практически 10/10. Это уже сильно лучше первого блока. Особенно важно, что `does + base verb` сейчас не развалился ни разу.\n\nТеперь делаем сложнее.\n\n### Этап 3 — Mixed Sentence Building\n\nЯ даю русскую мысль. Ты сам выбираешь:\n- `be` или смысловой глагол;\n- `do/does/did`;\n- форму глагола;\n- порядок слов.\n\nНе переводи русскую структуру слово в слово.\n\n1. Почему этот сервер сейчас недоступен?\n\n2. Алекс обычно не работает по выходным.\n\n3. Твой менеджер знает об этой проблеме?\n\n4. Почему Мария вчера не пришла на встречу?\n\n5. Эти разработчики отвечают за этот модуль.\n\n6. Мой коллега обычно заканчивает работу в шесть.\n\n7. Почему твоя команда сегодня не готова к развертыванию?\n\n8. Администратор вчера не дал мне доступ.\n\n9. Когда администратор даст мне доступ, я начну тестирование.\n\n10. Если сервер снова упадёт, Алекс проверит логи.\n\nОсобенно внимательно №9–10: после `when/if` не тащи `will` в обе части."
+        }
+      ]
+    },
+    {
+      "id": "e9a0267e-fd18-43d6-9601-8994a39d22d3",
+      "status": "completed",
+      "error": null,
+      "startedAt": 1788209423.712,
+      "completedAt": 1788209424.387649,
+      "durationMs": null,
+      "items": [
+        {
+          "type": "userMessage",
+          "id": "e9a0267e-fd18-43d6-9601-8994a39d22d3",
+          "content": [
+            {
+              "type": "text",
+              "text": "1) Why is this server unavailable?\n\n2) Alex doesn't usually work on weekends.\n\n3) Does your manager know about this problem?\n\n4) Why didn't Maria come to the meeting?\n\n5) These developers are responsible for this module\n\n6) My colleague usually finishes work at 6 p.m\n\n7) Why isn't your team ready for deployment?\n\n8) The administrator didn't give me access yesterday.\n\n9) When the administrator gives me access, I'll start testing.\n\n10) If the server crashes again, Alex will check the logs."
+            }
+          ]
+        },
+        {
+          "type": "agentMessage",
+          "id": "ae0973c5-2b80-4d34-bbef-9e5a85195351",
+          "text": "Здесь уже почти чисто. По грамматике каркас удержал во всех 10 предложениях. Это важнее, чем отдельные мелкие формулировки.\n\n1.\n\nOriginal: `Why is this server unavailable?`\n\nCorrect: `Why is this server unavailable?`\n\nГрамматически: правильно.  \nЕстественность: естественно.\n\nПочему: `unavailable` — прилагательное, поэтому нужен `to be`.\n\nПравило простыми словами:  \n`server + adjective → is/was`, а не `do/does`.\n\nЕщё 3 похожих примера:\n- `Why is the database unavailable?`\n- `Why is this service slow?`\n- `Why is the server busy?`\n\nМини-тренировка:  \n`Почему база сейчас недоступна?`\n\n2.\n\nOriginal: `Alex doesn't usually work on weekends.`\n\nCorrect: `Alex doesn't usually work on weekends.`\n\nГрамматически: правильно.  \nЕстественность: естественно.\n\nПочему: `work` — смысловой глагол. `Alex = he` → `doesn't + work`.\n\nОтдельно хорошо поставил `usually`:\n`doesn't usually work`.\n\n3.\n\nOriginal: `Does your manager know about this problem?`\n\nCorrect: `Does your manager know about this problem?`\n\nГрамматически: правильно.  \nЕстественность: естественно.\n\nПочему: `manager = he/she` → `does`, после него `know`, не `knows`.\n\n4.\n\nOriginal: `Why didn't Maria come to the meeting?`\n\nCorrect: `Why didn't Maria come to the meeting?`\n\nГрамматически: правильно.  \nЕстественность: естественно.\n\nПочему: Past Simple question:\n\n`didn't + come`\n\nне `didn't came`.\n\n5.\n\nOriginal: `These developers are responsible for this module.`\n\nCorrect: `These developers are responsible for this module.`\n\nГрамматически: правильно.  \nЕстественность: естественно.\n\nПочему: `responsible` — прилагательное → `are`.\n\nЭто хороший пример, потому что русское «отвечают за» легко ошибочно перевести как действие. В английском здесь:\n\n`be responsible for`\n\n6.\n\nOriginal: `My colleague usually finishes work at 6 p.m`\n\nCorrect: `My colleague usually finishes work at 6 p.m.`\n\nГрамматически: правильно.  \nЕстественность: естественно.\n\nПочему: `my colleague = he/she` → `finishes`.\n\nИ это уже хорошо автоматизируется: ты не потерял `-s`.\n\n7.\n\nOriginal: `Why isn't your team ready for deployment?`\n\nCorrect: `Why isn't your team ready for deployment?`\n\nГрамматически: правильно.  \nЕстественность: естественно.\n\nМожно также:\n\n`Why isn't your team ready for the deployment?`\n\nЕсли речь о конкретном деплое, который все участники разговора знают.\n\nГлавное по грамматике: `ready` → `is`, не `does`.\n\n8.\n\nOriginal: `The administrator didn't give me access yesterday.`\n\nCorrect: `The administrator didn't give me access yesterday.`\n\nГрамматически: правильно.  \nЕстественность: естественно.\n\nПочему: `didn't + give`, базовая форма.\n\n9.\n\nOriginal: `When the administrator gives me access, I'll start testing.`\n\nCorrect: `When the administrator gives me access, I'll start testing.`\n\nГрамматически: правильно.  \nЕстественность: естественно.\n\nВот это особенно важно. Раньше подобные конструкции у тебя регулярно провоцировали `will` после `when`.\n\nСейчас правильно:\n\n`When + Present Simple, will + verb`\n\n`When the administrator gives...`  \n`I'll start...`\n\n10.\n\nOriginal: `If the server crashes again, Alex will check the logs.`\n\nCorrect: `If the server crashes again, Alex will check the logs.`\n\nГрамматически: правильно.  \nЕстественность: естественно.\n\nИ здесь ты правильно сохранил сразу две вещи:\n\n`server = it → crashes`\n\nи\n\n`if + Present Simple`, не `if ... will crash`.\n\nИтог этого блока: **10/10 по Sentence Core**.\n\nПричём это не «повезло с упражнениями». В одном блоке у тебя одновременно были:\n\n- `is/are`;\n- `does/doesn't`;\n- `did/didn't`;\n- `he/she/it + -s`;\n- вопросы;\n- отрицания;\n- Past Simple;\n- `if/when` clauses.\n\nИ каркас нигде не развалился.\n\nПервые ошибки занятия были:\n\n`Maria don't...`  \n`Do Alex...?`  \n`Do your team...?`\n\nПосле короткой отработки ты уже стабильно выдаёшь:\n\n`Does your manager know...?`  \n`Alex doesn't usually work...`  \n`My colleague finishes...`\n\nТо есть сейчас имеет смысл не продолжать ещё 30 однотипных пропусков. Нужен именно запланированный **свободный output**, где подсказок конструкции уже нет.\n\n### Финальные 10 минут — Free Sentence Building\n\nСитуация:\n\nЗавтра ваша команда должна выпустить обновление. Сегодня ты проверяешь готовность команды и сервера. У одного разработчика нет доступа, администратор пока недоступен, а вчера тестирование прошло не полностью.\n\nНапиши **6–8 связанных предложений по-английски**.\n\nОбязательно естественно включи в текст:\n\n- одно предложение с `to be`;\n- одно отрицание Present Simple;\n- один вопрос с `does`;\n- одно предложение Past Simple;\n- одно отрицание с `didn't`;\n- одно `when` или `if` предложение про завтра.\n\nНе подписывай конструкции и не строй предложения специально в порядке списка. Напиши нормальный короткий рабочий рассказ/сообщение. Здесь уже проверяем, можешь ли ты сам выбрать каркас без подсказки."
+        }
+      ]
+    },
+    {
+      "id": "c178ccdf-082c-41e6-8624-5793f73c3332",
+      "status": "completed",
+      "error": null,
+      "startedAt": 1788210263.677,
+      "completedAt": 1788210263.7528,
+      "durationMs": null,
+      "items": [
+        {
+          "type": "userMessage",
+          "id": "c178ccdf-082c-41e6-8624-5793f73c3332",
+          "content": [
+            {
+              "type": "text",
+              "text": "```\n- Hello there. Are we ready for update tomorrow?\n- The administrator didn't give me access for productive repository. - says Robert.\n - Okey, I'll call the product manager and return with answer. Good. What about testing, Maria?\n- In work. I hope, I'll finish tonight. \n- You should. When the administrator gives access to Robert, you should run all tests on productation. If the tests passes, I'll send message to administrator with open-base ask.\n- In latest time, he was so slowly. He removed a block for database for half to hour last Friday.\n- I don't know that we can do. Be careful. \n\n```"
+            }
+          ]
+        },
+        {
+          "type": "agentMessage",
+          "id": "baf17466-9af4-4d43-9b98-cbcd3da28063",
+          "text": "По каркасу ты уже держишь Sentence Core заметно лучше, чем раньше. Но в свободной сборке вылезли другие вещи: предлоги, артикли, форма существительного после `for`, `if + Present Simple`, `he/she/it + -s`, плюс несколько буквальных кальк с русского.\n\nРазберу по фразам.\n\nOriginal: `Hello there. Are we ready for update tomorrow?`\n\nCorrect: `Hello. Are we ready for the update tomorrow?`\n\nГрамматически: почти правильно.  \nЕстественность: `Hello there` здесь возможно, но для рабочего созвона обычное `Hello` естественнее.\n\nПочему: если речь о конкретном завтрашнем обновлении, нужен `the update`.\n\nПравило простыми словами: конкретная уже известная вещь → часто `the`.\n\nЕщё 3 похожих примера:\n- `Are we ready for the deployment?`\n- `Is the server ready for the update?`\n- `Are the tests ready for the release?`\n\n---\n\nOriginal: `The administrator didn't give me access for productive repository.`\n\nCorrect: `The administrator didn't give me access to the production repository.`\n\nГрамматически: неправильно по предлогу.  \nЕстественность: `productive repository` неестественно.\n\nПочему:\n\n`access to something`\n\nИ `production` здесь — существительное, которое определяет другое существительное:\n\n`production repository`\n\nне `productive repository`.\n\n`productive` = продуктивный человек/процесс.\n\nЕщё 3 примера:\n- `I don't have access to the server.`\n- `She has access to the database.`\n- `We need access to the production environment.`\n\n---\n\nOriginal: `Okey, I'll call the product manager and return with answer.`\n\nCorrect: `Okay, I'll call the product manager and get back to you with an answer.`\n\nГрамматически: твой вариант понятен, но неестественен.  \nЕстественность: лучше `get back to you`.\n\nПочему: русское «вернусь с ответом» не переносится буквально как `return with answer`.\n\nРабочий chunk:\n\n`get back to someone with an answer`\n\nТакже нужен артикль:\n\n`with an answer`.\n\n---\n\nOriginal: `Good. What about testing, Maria?`\n\nCorrect: `Good. What about the testing, Maria?`\n\nили естественнее:\n\n`Good. How is the testing going, Maria?`\n\nГрамматически: первый вариант допустим.  \nЕстественность: второй гораздо лучше для реального разговора.\n\nПолезный chunk:\n\n`How is ... going?`\n\n- `How is the testing going?`\n- `How is the deployment going?`\n- `How is the project going?`\n\n---\n\nOriginal: `In work. I hope, I'll finish tonight.`\n\nCorrect: `It's in progress. I hope I'll finish tonight.`\n\nГрамматически: `In work` неправильно как самостоятельный ответ.  \nЕстественность: калька с «в работе».\n\nИспользуй:\n\n`It's in progress.`\n\nТакже после `I hope` запятая обычно не нужна:\n\n`I hope I'll finish tonight.`\n\n---\n\nOriginal: `You should.`\n\nCorrect: `You should.`\n\nГрамматически: правильно.  \nЕстественность: зависит от смысла.\n\nЕсли имеется в виду «тебе следует закончить», это грамматически нормально, потому что `finish` понятен из контекста.\n\nНо звучит довольно жёстко:\n\n`You should.`\n\nВ рабочем разговоре естественнее могло быть:\n\n`Okay, please make sure you finish it tonight.`\n\n---\n\nOriginal: `When the administrator gives access to Robert, you should run all tests on productation.`\n\nCorrect: `When the administrator gives Robert access, you should run all the tests in production.`\n\nГрамматически: основная структура правильная.  \nЕстественность: есть проблемы с лексикой.\n\nСамое важное для сегодняшней темы ты сделал правильно:\n\n`When the administrator gives...`\n\nне:\n\n`When the administrator will give...`\n\nТакже возможны обе конструкции:\n\n`give Robert access`  \n`give access to Robert`\n\nНо первая здесь естественнее.\n\n`productation` — такого слова здесь нет.\n\nНужно:\n\n`production`\n\nИ обычно:\n\n`in production`\n\nНо инженерно я бы ещё поспорил с самим сценарием: все тесты обычно не начинают впервые гонять прямо в production. Если ты имеешь в виду production-like/test environment, лучше назвать его точно.\n\n---\n\nOriginal: `If the tests passes, I'll send message to administrator with open-base ask.`\n\nCorrect: `If the tests pass, I'll send a message to the administrator and ask him to open the database.`\n\nГрамматически: неправильно.\n\nГлавная ошибка сегодняшнего Sentence Core:\n\n`tests` = `they`\n\nпоэтому:\n\n`the tests pass`\n\nне:\n\n`the tests passes`.\n\nТы знаешь правило `he/she/it + -s`, но в свободном тексте перенёс `-s` на множественное число.\n\nСравни:\n\n`The test passes.`  \n`The tests pass.`\n\nДальше:\n\n`send a message` — нужен артикль.\n\n`send a message to the administrator`\n\nА `with open-base ask` — русская логика, по-английски так не собирается.\n\nНужно действие:\n\n`ask him to open the database`\n\nПравило:\n\n`ask someone to do something`\n\n- `I asked him to restart the server.`\n- `Maria asked Alex to check the logs.`\n- `I'll ask the administrator to open the database.`\n\n---\n\nOriginal: `In latest time, he was so slowly.`\n\nCorrect: `Recently, he has been very slow.`\n\nЕсли хотим не уходить сейчас в Present Perfect, можно проще:\n\n`He was very slow last week.`\n\nГрамматически: неправильно.\n\nПочему: `slowly` — наречие, оно описывает действие:\n\n`He works slowly.`\n\nПосле `be` нужно прилагательное:\n\n`He was slow.`\n\nТо есть:\n\n`He was slowly` ❌  \n`He was slow` ✅\n\nА `in latest time` — калька.\n\nМожно:\n- `recently`\n- `lately`\n- `last week`\n\n---\n\nOriginal: `He removed a block for database for half to hour last Friday.`\n\nCorrect: `It took him half an hour to remove the database lock last Friday.`\n\nЕсли ты хотел сказать именно «снимал блокировку полчаса».\n\nГрамматически: исходная версия плохо собрана.  \nЕстественность: неестественно.\n\n`block for database` → скорее `database lock`\n\n`half to hour` → `half an hour`\n\nНо главное — ты, похоже, хотел выразить длительность действия. Тогда английская конструкция:\n\n`It took him half an hour to...`\n\nНапример:\n\n- `It took him ten minutes to restart the service.`\n- `It took Maria an hour to finish testing.`\n- `It took us half an hour to fix the issue.`\n\n---\n\nOriginal: `I don't know that we can do.`\n\nCorrect: `I don't know what we can do.`\n\nГрамматически: неправильно.\n\nПочему:\n\n`what` = что именно\n\n`I don't know what we can do.`  \n= Я не знаю, что мы можем сделать.\n\n`that` здесь не подходит.\n\n---\n\nOriginal: `Be careful.`\n\nCorrect: `Be careful.`\n\nГрамматически: правильно.  \nЕстественность: возможно.\n\nНо в рабочем контексте чаще:\n\n`Be careful with the deployment.`  \n`Please be careful when you run the tests.`\n\nИначе звучит немного абстрактно.\n\nПо сегодняшней теме картина такая.\n\nSentence Core у тебя уже не разваливается: `didn't give`, `Are we ready?`, `When ... gives`, `I'll finish` — всё это ты построил самостоятельно.\n\nНо в свободном output появилась одна важная ACTIVE ошибка:\n\n`If the tests passes` ❌  \n`If the tests pass` ✅\n\nТо есть правило `he/she/it + -s` ты знаешь, но пока ещё иногда воспринимаешь `-s` как универсальный маркер Present Simple. Нет: он только для **единственного 3-го лица**.\n\nИ второе: сейчас ограничителем становится уже не столько грамматика Sentence Core, сколько попытка собирать английские выражения из русских слов:\n\n`return with answer`  \n`in work`  \n`open-base ask`  \n`in latest time`\n\nВот это как раз следующий слой sentence building: перестать переводить конструкции по деталям и начать использовать английские chunks.\n\nМини-тренировка на закрепление. Пересобери только эти 5 фраз без подсматривания:\n\n1. Тест обычно проходит успешно.  \n2. Тесты обычно проходят успешно.  \n3. Я вернусь к тебе с ответом через час.  \n4. Тестирование ещё в работе.  \n5. Я попрошу администратора открыть базу."
+        }
+      ]
+    },
+    {
+      "id": "e7fe5d53-19d6-41cd-ac0e-0a49cb571697",
+      "status": "completed",
+      "error": null,
+      "startedAt": 1788210613.445,
+      "completedAt": 1788210613.526346,
+      "durationMs": null,
+      "items": [
+        {
+          "type": "userMessage",
+          "id": "e7fe5d53-19d6-41cd-ac0e-0a49cb571697",
+          "content": [
+            {
+              "type": "text",
+              "text": "я хотел сказать, чтобы он был терпилой."
+            }
+          ]
+        },
+        {
+          "type": "agentMessage",
+          "id": "ff17b871-87fa-4fec-9c5a-78457476d89d",
+          "text": "Тогда `Be careful` вообще не то.\n\nЕсли ты хотел сказать именно «пусть терпит / пусть не ноет / будь терпилой», то по-английски прямого нормального эквивалента слову `терпила` нет — зависит от оттенка.\n\nЕсли смысл «потерпи, прояви терпение»:\n- `Be patient.` — будь терпеливым.\n- `You'll have to be patient.` — придётся потерпеть.\n- `Just be patient.` — просто потерпи.\n\nЕсли именно сленговое «будь терпилой», то ближе:\n- `Just take it.` — просто терпи это.\n- `Suck it up.` — терпи и не ной; довольно грубо.\n- `Deal with it.` — смирись / терпи.\n- `Be a pushover.` — буквально «будь человеком, которого легко прогнуть», но так обычно не говорят как совет.\n\nВ твоём диалоге наиболее естественно было бы:\n\n`I don't know what we can do. You'll just have to be patient.`\n\nА если хотелось грубее и по-разговорному:\n\n`I don't know what we can do. Just suck it up.`\n\nИ важное различие: `patient` = терпеливый, а `pushover` = именно «терпила» в смысле человека, который позволяет другим себя прогибать."
+        }
+      ]
+    },
+    {
+      "id": "143a0d3f-4c79-437b-b1ea-dca49ea0b6d3",
+      "status": "completed",
+      "error": null,
+      "startedAt": 1788210632.816,
+      "completedAt": 1788210633.218841,
+      "durationMs": null,
+      "items": [
+        {
+          "type": "userMessage",
+          "id": "143a0d3f-4c79-437b-b1ea-dca49ea0b6d3",
+          "content": [
+            {
+              "type": "text",
+              "text": "я вспомнил трейт из крусейдер кингс, все"
+            }
+          ]
+        },
+        {
+          "type": "agentMessage",
+          "id": "a9d690b9-3088-490b-b5f8-969fc6780e3c",
+          "text": "Да. В Crusader Kings это именно `Patient` — «терпеливый».\n\nТак что твоя ассоциация была правильной: `Be patient.` = «будь терпеливым / потерпи».\n\nА `терпила` в русском сленговом смысле — уже совсем другая семантика."
+        }
+      ]
+    },
+    {
+      "id": "da842ef3-a52c-46d3-8328-c97dd2a650ce",
+      "status": "completed",
+      "error": null,
+      "startedAt": 1788210646.723,
+      "completedAt": 1788210646.739115,
+      "durationMs": null,
+      "items": [
+        {
+          "type": "userMessage",
+          "id": "da842ef3-a52c-46d3-8328-c97dd2a650ce",
+          "content": [
+            {
+              "type": "text",
+              "text": "богон все"
+            }
+          ]
+        },
+        {
+          "type": "agentMessage",
+          "id": "5bac6381-8d5a-4cdf-bb2d-50d161c3e92b",
+          "text": "Да, добиваем все 5. Пиши сразу английские предложения, без объяснений:\n\n1. Тест обычно проходит успешно.  \n2. Тесты обычно проходят успешно.  \n3. Я вернусь к тебе с ответом через час.  \n4. Тестирование ещё в работе.  \n5. Я попрошу администратора открыть базу."
+        }
+      ]
+    },
+    {
+      "id": "af597079-93a8-407c-a5e8-7655e8161392",
+      "status": "completed",
+      "error": null,
+      "startedAt": 1788210655.063,
+      "completedAt": 1788210655.526137,
+      "durationMs": null,
+      "items": [
+        {
+          "type": "userMessage",
+          "id": "af597079-93a8-407c-a5e8-7655e8161392",
+          "content": [
+            {
+              "type": "text",
+              "text": "все"
+            }
+          ]
+        },
+        {
+          "type": "agentMessage",
+          "id": "7356d954-87e1-488a-8d26-2f9a6da58702",
+          "text": "На сегодня всё.\n\nИтог занятия: Sentence Core держится заметно стабильнее. `to be` vs смысловой глагол, `do/does/did`, вопросы, отрицания и `he/she/it + -s` в контролируемых заданиях уже почти без ошибок.\n\nЧто ещё не автоматизировано до конца:\n- в свободном тексте иногда проскакивает `tests passes` вместо `tests pass`;\n- есть кальки с русского: `in work`, `return with answer`, `open-base ask`;\n- слабее грамматики сейчас уже выглядят chunks, предлоги и естественные рабочие формулировки.\n\nТо есть базовый Sentence Core уже не выглядит главным узким местом. Следующие занятия должны не гонять бесконечно `does/is`, а заставлять использовать эту базу в более свободной сборке, где она и должна закрепиться."
+        }
+      ]
+    },
+    {
+      "id": "c7f02b88-da85-40a6-ae7b-587587819b48",
+      "status": "completed",
+      "error": null,
+      "startedAt": 1788211095.995,
+      "completedAt": 1788211096.910673,
+      "durationMs": null,
+      "items": [
+        {
+          "type": "userMessage",
+          "id": "c7f02b88-da85-40a6-ae7b-587587819b48",
+          "content": [
+            {
+              "type": "text",
+              "text": "Преобразуй в блок для редактирования"
+            }
+          ]
+        },
+        {
+          "type": "agentMessage",
+          "id": "1fbfdffb-eb5f-4474-bf35-c0b97d9448d6",
+          "text": ":::writing{id=\"48317\" variant=\"document\"}\nНа сегодня всё.\n\nИтог занятия: Sentence Core держится заметно стабильнее. `to be` vs смысловой глагол, `do/does/did`, вопросы, отрицания и `he/she/it + -s` в контролируемых заданиях уже почти без ошибок.\n\nЧто ещё не автоматизировано до конца:\n\n- в свободном тексте иногда проскакивает `tests passes` вместо `tests pass`;\n- есть кальки с русского: `in work`, `return with answer`, `open-base ask`;\n- слабее грамматики сейчас уже выглядят chunks, предлоги и естественные рабочие формулировки.\n\nТо есть базовый Sentence Core уже не выглядит главным узким местом. Следующие занятия должны не гонять бесконечно `does/is`, а заставлять использовать эту базу в более свободной сборке, где она и должна закрепиться.\n:::"
+        }
+      ]
+    }
+  ],
+  "sourcePages": 2
+}
