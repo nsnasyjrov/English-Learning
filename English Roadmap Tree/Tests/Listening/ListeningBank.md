@@ -19,6 +19,8 @@
 
 | 06.10.2026 | Work–life balance | B1 | https://learnenglish.britishcouncil.org/free-resources/listening/b1/work-life-balance | assigned; not completed |
 
+| 13.10.2026 | Chatting about a series | B1 | https://learnenglish.britishcouncil.org/free-resources/listening/b1/chatting-about-series | assigned; not yet completed |
+
 ## Maintenance rule
 
 When a new listening material is assigned or completed, add it here with the date, title, working level and source URL. If the original lesson does not contain a source, restore it from the textual content only when the identification is reliable; otherwise write `source not recorded` instead of guessing.
