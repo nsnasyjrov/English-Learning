@@ -21,7 +21,7 @@
 
 | 13.10.2026 | Chatting about a series | B1 | https://learnenglish.britishcouncil.org/free-resources/listening/b1/chatting-about-series | assigned; not yet completed |
 
-| 20.10.2026 | Meeting an old friend | B1 | https://learnenglish.britishcouncil.org/free-resources/listening/b1/meeting-old-friend | assigned 20.10 for 21.10 lesson; not yet completed |
+| 20.10.2026 | Meeting an old friend | B1 | https://learnenglish.britishcouncil.org/free-resources/listening/b1/meeting-old-friend | completed 20.10.2026; Part 2 details 6/7; official Tasks 1–2 user reports all correct (one 'of' omitted); Speaking finished |
 
 ## Maintenance rule
 
