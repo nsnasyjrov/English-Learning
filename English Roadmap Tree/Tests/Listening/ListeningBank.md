@@ -23,6 +23,8 @@
 
 | 20.10.2026 | Meeting an old friend | B1 | https://learnenglish.britishcouncil.org/free-resources/listening/b1/meeting-old-friend | completed 20.10.2026; Part 2 details 6/7; official Tasks 1–2 user reports all correct (one 'of' omitted); Speaking finished |
 
+| 04.11.2026 | Writing home — Episode 01 (Milton and Mei) | B1 | https://learnenglish.britishcouncil.org/free-resources/general/audio-series/writing-home/episode-01 | completed 04.11.2026; Listening Review scheduled 08.11.2026 (not yet confirmed completed); focus on details, negations and pronunciation |
+
 ## Maintenance rule
 
 When a new listening material is assigned or completed, add it here with the date, title, working level and source URL. If the original lesson does not contain a source, restore it from the textual content only when the identification is reliable; otherwise write `source not recorded` instead of guessing.
