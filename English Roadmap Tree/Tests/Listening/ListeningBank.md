@@ -25,6 +25,7 @@
 
 | 04.11.2026 | Writing home — Episode 01 (Milton and Mei) | B1 | https://learnenglish.britishcouncil.org/free-resources/general/audio-series/writing-home/episode-01 | completed 04.11.2026; Listening Review scheduled 08.11.2026 (not yet confirmed completed); focus on details, negations and pronunciation |
 
+| 08.11.2026 | A student discussion (Earth and Mars) | B1 | https://learnenglish.britishcouncil.org/free-resources/listening/b1/student-discussion | first listening without transcript: 4 open questions, 2/4 partial-credit (1, 0.5, 0.5, 0); review/relisten pending |
 ## Maintenance rule
 
 When a new listening material is assigned or completed, add it here with the date, title, working level and source URL. If the original lesson does not contain a source, restore it from the textual content only when the identification is reliable; otherwise write `source not recorded` instead of guessing.
