@@ -19,7 +19,7 @@
 
 | 06.10.2026 | Work–life balance | B1 | https://learnenglish.britishcouncil.org/free-resources/listening/b1/work-life-balance | assigned; not completed |
 
-| 13.10.2026 | Chatting about a series | B1 | https://learnenglish.britishcouncil.org/free-resources/listening/b1/chatting-about-series | assigned; not yet completed |
+| 13.10.2026 (assigned) | Chatting about a series | B1 | https://learnenglish.britishcouncil.org/free-resources/listening/b1/chatting-about-series | completed per user's confirmation on 11.11.2026; actual completion date and results not recorded; do not assign as new |
 
 | 20.10.2026 | Meeting an old friend | B1 | https://learnenglish.britishcouncil.org/free-resources/listening/b1/meeting-old-friend | completed 20.10.2026; Part 2 details 6/7; official Tasks 1–2 user reports all correct (one 'of' omitted); Speaking finished |
 
