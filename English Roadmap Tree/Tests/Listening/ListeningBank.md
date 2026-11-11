@@ -27,6 +27,8 @@
 | 04.11.2026 | Writing home — Episode 01 (Milton and Mei) | B1 | https://learnenglish.britishcouncil.org/free-resources/general/audio-series/writing-home/episode-01 | completed 04.11.2026; Listening Review scheduled 08.11.2026 (not yet confirmed completed); focus on details, negations and pronunciation |
 
 | 08.11.2026 | A student discussion (Earth and Mars) | B1 | https://learnenglish.britishcouncil.org/free-resources/listening/b1/student-discussion | first listen 2/4 (Q4 answered after ~20 min); second listen: detailed questions 3.25/4 (AU 1/1, distance disagreement .75/1, water 1/1, gravity surprise .5/1), plus gravity/atmosphere .75/1; third listen tested with 10 detail questions: 8/10 partial-credit, or 7/9 excluding easy speaker-ID question (78%); retained gist/argument, missed Jupiter's specific role, planet colors, some water/atmosphere details; repeated 44% gravity vs source 38%; user noticed possible confusion between teacher's and female student's voices/roles; grammar separate, pronunciation not tested |
+| 11.11.2026 | At the chemist | B1 | https://learnenglish.britishcouncil.org/free-resources/listening/b1/chemist | completed: first and second listening, detail recall uneven; official Task 1 6/6 and Task 2 7/8 (13/14 total); word-order error 'a throat sore' instead of 'a sore throat'; transcript analysis pending |
+
 ## Maintenance rule
 
 When a new listening material is assigned or completed, add it here with the date, title, working level and source URL. If the original lesson does not contain a source, restore it from the textual content only when the identification is reliable; otherwise write `source not recorded` instead of guessing.
