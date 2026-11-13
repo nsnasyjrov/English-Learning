@@ -18,6 +18,8 @@
 | 19.09.2026 | Planning an event | B1 | https://learnenglish.britishcouncil.org/free-resources/reading/b1/planning-event | completed (confirmed by user 12.10.2026) |
 | 24.09.2026 | Digital habits across generations | B1 | https://learnenglish.britishcouncil.org/free-resources/reading/b1/digital-habits-across-generations | previously studied; confirmed by user 13.11.2026 (exact completion date unknown) |
 
+| 13.11.2026 | True Beauty | A2–B1 (extended B1 reading practice) | https://learnenglish.britishcouncil.org/free-resources/general/story-zone/a2-b1/true-beauty-a2/b1 | assigned; not completed |
+
 ## Maintenance rule
 
 When a new reading material is assigned or completed, add it here with the date, title, working level and source URL. If the original lesson does not contain a source, restore it from the textual content only when the identification is reliable; otherwise write `source not recorded` instead of guessing.
