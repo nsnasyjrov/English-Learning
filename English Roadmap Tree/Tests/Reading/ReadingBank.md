@@ -16,7 +16,7 @@
 | 06.09.2026 | UN Picks New Map for Africa's Size | B1 | https://readinlevels.com/un-retires-mercator-map-that-shrinks-africa/b1 | assigned in lesson |
 
 | 19.09.2026 | Planning an event | B1 | https://learnenglish.britishcouncil.org/free-resources/reading/b1/planning-event | completed (confirmed by user 12.10.2026) |
-| 24.09.2026 | Digital habits across generations | B1 | https://learnenglish.britishcouncil.org/free-resources/reading/b1/digital-habits-across-generations | assigned; not completed |
+| 24.09.2026 | Digital habits across generations | B1 | https://learnenglish.britishcouncil.org/free-resources/reading/b1/digital-habits-across-generations | previously studied; confirmed by user 13.11.2026 (exact completion date unknown) |
 
 ## Maintenance rule
 
