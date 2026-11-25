@@ -33,6 +33,8 @@
 
 | 25.11.2026 | An introduction to a lecture | B1 | https://learnenglish.britishcouncil.org/free-resources/listening/b1/introduction-lecture | two listens and official tasks completed; custom questions 3/6 and 5.75/9 (different question sets, partial credit); Preparation 4/6 visible, Task 1 6/6 (user report), Task 2 6/8; official listening tasks 12/14. Missed perception vs external events and lecture outline; user reported losing focus at researcher’s unfamiliar name. Transcript review pending. |
 
+| 25.11.2026 | Writing home — Episode 02 | B1 | https://learnenglish.britishcouncil.org/free-resources/general/audio-series/writing-home/episode-02 | assigned; not yet completed |
+
 ## Maintenance rule
 
 When a new listening material is assigned or completed, add it here with the date, title, working level and source URL. If the original lesson does not contain a source, restore it from the textual content only when the identification is reliable; otherwise write `source not recorded` instead of guessing.
