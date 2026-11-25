@@ -31,7 +31,7 @@
 
 | 11.11.2026 | The art of subtitling (BBC 6 Minute English) | B1+/B2 (learner/assistant assessment, not official CEFR) | https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2023/ep-230608 | completed listening and transcript; first-pass comprehension estimated by learner as 60–70%; transcript clarified content; official test scores not recorded. 75 minutes total for this and At the chemist together; Speaking skipped |
 
-| 25.11.2026 | An introduction to a lecture | B1 | https://learnenglish.britishcouncil.org/free-resources/listening/b1/introduction-lecture | assigned; not yet completed |
+| 25.11.2026 | An introduction to a lecture | B1 | https://learnenglish.britishcouncil.org/free-resources/listening/b1/introduction-lecture | two listens and official tasks completed; custom questions 3/6 and 5.75/9 (different question sets, partial credit); Preparation 4/6 visible, Task 1 6/6 (user report), Task 2 6/8; official listening tasks 12/14. Missed perception vs external events and lecture outline; user reported losing focus at researcher’s unfamiliar name. Transcript review pending. |
 
 ## Maintenance rule
 
