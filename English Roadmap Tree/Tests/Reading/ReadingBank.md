@@ -14,11 +14,10 @@
 | 27.08.2026 | Innovation in business | B1 | https://learnenglish.britishcouncil.org/free-resources/reading/b1/innovation-business | recorded in lesson |
 | 06.09.2026 | Uber Eats Plans Drone Food Delivery | B1 | https://readinlevels.com/uber-eats-to-launch-drone-delivery-with-zipline/b1 | assigned in lesson |
 | 06.09.2026 | UN Picks New Map for Africa's Size | B1 | https://readinlevels.com/un-retires-mercator-map-that-shrinks-africa/b1 | assigned in lesson |
-
 | 19.09.2026 | Planning an event | B1 | https://learnenglish.britishcouncil.org/free-resources/reading/b1/planning-event | completed (confirmed by user 12.10.2026) |
-| 24.09.2026 | Digital habits across generations | B1 | https://learnenglish.britishcouncil.org/free-resources/reading/b1/digital-habits-across-generations | previously studied; confirmed by user 13.11.2026 (exact completion date unknown) |
-
+| 24.09.2026 | Digital habits across generations | B1 | https://learnenglish.britishcouncil.org/free-resources/reading/b1/digital-habits-across-generations | completed previously; confirmed by user 13.11.2026 and 28.11.2026 (exact completion date unknown) |
 | 13.11.2026 | True Beauty | A2–B1 (extended B1 reading practice) | https://learnenglish.britishcouncil.org/free-resources/general/story-zone/a2-b1/true-beauty-a2/b1 | assigned; not completed |
+| 28.11.2026 | The legend of fairies | B1 | https://learnenglish.britishcouncil.org/free-resources/reading/b1/legend-fairies | completed reading and comprehension; Preparation 6/8, Task 1 4/6, Task 2 5/6; vocabulary review skipped |
 
 ## Maintenance rule
 
