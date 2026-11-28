@@ -20,7 +20,7 @@
 | 28.11.2026 | The legend of fairies | B1 | https://learnenglish.britishcouncil.org/free-resources/reading/b1/legend-fairies | completed reading and comprehension; Preparation 6/8, Task 1 4/6, Task 2 5/6; vocabulary review skipped |
 | unknown | Robot teachers | B1 | https://learnenglish.britishcouncil.org/free-resources/reading/b1/robot-teachers | completed previously; confirmed by user 28.11.2026 (exact completion date unknown) |
 | unknown | A travel guide | B1 | https://learnenglish.britishcouncil.org/free-resources/reading/b1/travel-guide | familiar material confirmed 28.11.2026; user unsure whether reading or listening; avoid assigning as new |
-| 28.11.2026 | Peru Finds 3,000 Spiders in Travellers' Socks | B1 | https://readinlevels.com/peru-seizes-3000-tarantulas-hidden-in-travellers-socks/b1 | assigned; completion not confirmed |
+| 28.11.2026 | Peru Finds 3,000 Spiders in Travellers' Socks | B1 | https://readinlevels.com/peru-seizes-3000-tarantulas-hidden-in-travellers-socks/b1 | completed 28.11.2026; comprehension 5/5 (100%), confirmed by supplied PDF |
 
 ## Maintenance rule
 
